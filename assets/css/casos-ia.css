@@ -192,3 +192,45 @@
 @media (max-width: 600px) {
   .post-figura figcaption::after { content: " · Toca para ampliar."; }
 }
+
+/* ---------- Tarjeta del resultado (lo que se creó) ---------- */
+.resultado {
+  border: 2px solid var(--c-solucion);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem 1.2rem;
+  margin: 1.8rem 0 2.2rem;
+  background: var(--c-solucion-bg);
+}
+.resultado .resultado-titulo {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--c-solucion);
+  margin-bottom: 0.3rem;
+}
+.resultado p { margin: 0.2rem 0 0.9rem; }
+.resultado .botones { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.resultado .boton {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.92rem;
+  text-decoration: none;
+  background: var(--c-solucion);
+  color: #fff !important;
+}
+.resultado .boton.secundario {
+  background: transparent;
+  color: var(--c-solucion) !important;
+  border: 2px solid var(--c-solucion);
+}
+.resultado .boton:hover { opacity: 0.88; text-decoration: none; }
+.resultado iframe {
+  width: 100%;
+  border: 0;
+  border-radius: 12px;
+  margin-top: 1rem;
+}

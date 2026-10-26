@@ -25,6 +25,15 @@ lang: es
   <div><strong>Herramientas</strong>Audacity · DaVinci Resolve · Kling · EmuBands</div>
 </div>
 
+<div class="resultado" markdown="0">
+  <span class="resultado-titulo">③ El resultado: escucha el disco</span>
+  <p><strong>Litoques</strong>, de Lito, ya está publicado. Es el disco del que trata este caso.</p>
+  <div class="botones">
+    <a class="boton" href="https://open.spotify.com/album/58NEzKaxV9MBQJ0cqzJ5IH" target="_blank" rel="noopener">▶ Escuchar en Spotify</a>
+    <a class="boton secundario" href="https://open.spotify.com/artist/35esiCfNa15JxyDhy94JuM" target="_blank" rel="noopener">Perfil de Lito</a>
+  </div>
+</div>
+
 <div class="leyenda" markdown="0">
   Cómo leer este artículo: cada capítulo separa <strong style="color:#b5402a">① el problema</strong>, <strong style="color:#b7791f">② el proceso</strong> y <strong style="color:#2f7d4f">③ la solución</strong>. Además, las etiquetas distinguen
   <span class="etiqueta hecho">Hecho</span> lo que consta que se hizo,
@@ -403,3 +412,9 @@ Litoques muestra que un proyecto musical personal necesita conocimientos de soni
 La IA no eliminó el esfuerzo, no garantizó la calidad y no tocó una sola nota. La composición, la interpretación, la elección de tomas y el criterio siguen siendo de Lito. Pero convirtió un proyecto que habría resultado más caro, más lento o directamente inabordable en solitario en algo que se podía empezar.
 
 Y quizá esa sea la lección: si tienes un proyecto personal guardado en un cajón porque «hacen falta demasiadas cosas que no sabes hacer», puede que ya no sea así.
+
+<div class="resultado" markdown="0">
+  <span class="resultado-titulo">Escucha Litoques</span>
+  <p>Este es el resultado de todo el proceso: guitarra, oído y criterio humano, con la IA como compañera de taller.</p>
+  <iframe src="https://open.spotify.com/embed/album/58NEzKaxV9MBQJ0cqzJ5IH" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Litoques en Spotify"></iframe>
+</div>

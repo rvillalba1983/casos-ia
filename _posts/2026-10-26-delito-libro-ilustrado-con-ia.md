@@ -22,6 +22,17 @@ Hay ideas que caben en una frase y proyectos que no caben en ninguna. **DeLito**
 
 Tener la idea era la parte fácil. Convertirla en un libro que se pudiera **imprimir, vender en Amazon y promocionar en Instagram** exigía ilustrar, maquetar, entender la preimpresión, diseñar una cubierta y preparar una campaña. Este artículo cuenta cómo se usó la inteligencia artificial en cada uno de esos frentes y, sobre todo, qué tuvo que seguir haciendo una persona.
 
+<div class="resultado" markdown="0">
+  <span class="resultado-titulo">③ El resultado: el libro</span>
+  <p><strong>El DeLito</strong> ya está a la venta en Amazon, en Kindle y en tapa blanda. Es el libro del que trata este caso.</p>
+  <div class="botones">
+    <a class="boton" href="https://www.amazon.es/dp/B0HD1CZ64C" target="_blank" rel="noopener">📖 Tapa blanda en Amazon</a>
+    <a class="boton" href="https://www.amazon.es/dp/B0HCDKP4B7" target="_blank" rel="noopener">Kindle</a>
+    <a class="boton secundario" href="https://books2read.com/u/3kxoo8" target="_blank" rel="noopener">Otras tiendas</a>
+    <a class="boton secundario" href="https://www.instagram.com/elde_lito/" target="_blank" rel="noopener">@elde_lito</a>
+  </div>
+</div>
+
 <div class="leyenda" markdown="0">
   Para leer con rigor: <span class="etiqueta hecho">Hecho documentado</span> consta que se trabajó en ello ·
   <span class="etiqueta propuesta">Aplicación explicativa</span> cómo puede usarse la IA en una tarea así ·
@@ -188,7 +199,7 @@ Terminar el contenido no significa que el libro esté listo para venderse. Queda
 </div>
 
 <div class="bloque bloque-proceso" markdown="1">
-<span class="etiqueta hecho">Hecho documentado</span> DeLito se preparó para su publicación en **Amazon**, con un proceso de producción orientado a la **impresión bajo demanda**.
+<span class="etiqueta hecho">Hecho documentado</span> DeLito se preparó para su publicación en **Amazon**, con un proceso de producción orientado a la **impresión bajo demanda**, y hoy está a la venta allí en [tapa blanda](https://www.amazon.es/dp/B0HD1CZ64C) y en [Kindle](https://www.amazon.es/dp/B0HCDKP4B7).
 
 <span class="etiqueta propuesta">Aplicación explicativa</span> La IA puede ayudar con listas de tareas previas, revisión de textos descriptivos, organización de metadatos, comprobación de la coherencia entre cubierta, interior y descripción, y diagnóstico de errores comunicados por la plataforma.
 </div>
@@ -267,3 +278,13 @@ El autor decide qué representa la obra, qué imágenes encajan, qué cambios ac
 DeLito no salió de una instrucción ni de una tarde de prompts. Salió de muchas conversaciones, muchas versiones y muchas decisiones de alguien que sabía qué quería contar. Lo que cambió la IA fue la distancia entre esa idea y las disciplinas necesarias para materializarla: ilustración, documentación, preimpresión, diseño de cubierta y promoción dejaron de ser muros y pasaron a ser escalones.
 
 **La IA no hizo desaparecer la complejidad de crear un libro. Ayudó a hacerla abordable, permitió explorar soluciones y facilitó que una idea personal avanzara por disciplinas que, de otro modo, habrían sido mucho más difíciles de coordinar.** El hilo rojo que une todo lo demás sigue siendo el criterio de quien lo firma.
+
+<div class="resultado" markdown="0">
+  <span class="resultado-titulo">Consigue El DeLito</span>
+  <p>El cuaderno ya es libro: 30 poemas que se leen y se juegan, con Lito y Pachi.</p>
+  <div class="botones">
+    <a class="boton" href="https://www.amazon.es/dp/B0HD1CZ64C" target="_blank" rel="noopener">📖 Tapa blanda</a>
+    <a class="boton" href="https://www.amazon.es/dp/B0HCDKP4B7" target="_blank" rel="noopener">Kindle</a>
+    <a class="boton secundario" href="https://www.instagram.com/elde_lito/" target="_blank" rel="noopener">Síguelo en Instagram</a>
+  </div>
+</div>
