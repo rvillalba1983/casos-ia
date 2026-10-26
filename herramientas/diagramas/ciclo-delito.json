@@ -1,0 +1,73 @@
+{
+ "titulo": "El ciclo de iteración: nadie acierta a la primera",
+ "fondo": "#f6f0e2",
+ "tinta": "#1f1f2e",
+ "ruta": "assets/img/delito/ciclo-iteracion.svg",
+ "centro": [
+  "La IA no elimina",
+  "el criterio:",
+  "cambia cómo se ejerce"
+ ],
+ "leyenda": [
+  [
+   "Decide la persona",
+   "#c8102e"
+  ],
+  [
+   "Genera la IA",
+   "#b7791f"
+  ],
+  [
+   "Se valida",
+   "#2f7d4f"
+  ]
+ ],
+ "pasos": [
+  [
+   "Objetivo",
+   "Qué escena, para qué y con qué personajes",
+   "#c8102e",
+   "PERSONA"
+  ],
+  [
+   "Proponer",
+   "Primera imagen o borrador a partir de referencias",
+   "#b7791f",
+   "IA"
+  ],
+  [
+   "Revisar",
+   "Mirarla junto al resto del libro",
+   "#c8102e",
+   "PERSONA"
+  ],
+  [
+   "Señalar",
+   "Errores concretos: rasgos, texto, encuadre",
+   "#c8102e",
+   "PERSONA"
+  ],
+  [
+   "Ajustar",
+   "Cambios delimitados sobre la versión anterior",
+   "#b7791f",
+   "IA"
+  ],
+  [
+   "Comparar",
+   "Versiones lado a lado",
+   "#c8102e",
+   "PERSONA"
+  ],
+  [
+   "Validar",
+   "Elegir la definitiva y anotarla en la biblia",
+   "#2f7d4f",
+   "PERSONA"
+  ]
+ ],
+ "H": 880,
+ "cy": 445,
+ "R": 315,
+ "bw": 218
+}

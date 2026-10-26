@@ -12,3 +12,4 @@ plugins:
 exclude:
   - README.md
   - _notas-editoriales
+  - herramientas

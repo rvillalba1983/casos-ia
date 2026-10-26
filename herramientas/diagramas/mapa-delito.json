@@ -1,0 +1,64 @@
+{
+ "titulo": "DeLito: del cuaderno al escaparate",
+ "fondo": "#f6f0e2",
+ "tinta": "#1f1f2e",
+ "ruta": "assets/img/delito/mapa-del-caso.svg",
+ "filas": [
+  [
+   "Concepto",
+   [
+    "Un libro que es poemario, diario, juego, confesionario y carta de amor a la vez.",
+    "Conversar para ordenar ideas y fijarlas en una biblia del proyecto.",
+    "Un documento maestro que evita reconstruir el contexto en cada sesión."
+   ]
+  ],
+  [
+   "Personajes",
+   [
+    "Generar imágenes sueltas es fácil; que Lito y Pachi sigan siendo los mismos, no.",
+    "Usar la página 3 del libro como modelo de referencia y revisar cada resultado.",
+    "Un método para mantenerlos reconocibles, con la validación final del autor."
+   ]
+  ],
+  [
+   "Estética",
+   [
+    "Una imagen bonita puede no parecer del mismo libro que las demás.",
+    "Describir el papel, la textura y el estilo propios y comparar variantes.",
+    "Un universo visual común: papeles y elementos «de la casa»."
+   ]
+  ],
+  [
+   "Interior",
+   [
+    "Páginas, globos y versiones que había que unir sin duplicados.",
+    "Inventarios, listas de control y nombres de versión claros.",
+    "Un interior unificado identificado por su versión (v7)."
+   ]
+  ],
+  [
+   "Impresión",
+   [
+    "Un PDF que se ve bien en pantalla no siempre se puede imprimir.",
+    "Traducir «quiero imprimirlo» a medidas, sangrado, páginas y lomo.",
+    "Parámetros documentados para la versión de 63 páginas."
+   ]
+  ],
+  [
+   "Cubierta",
+   [
+    "Una portada suelta no es una cubierta: faltan lomo y contraportada.",
+    "Planificar la cubierta completa con sus zonas y medidas.",
+    "Cubierta completa de 10,518 × 8,060 pulgadas para esa versión."
+   ]
+  ],
+  [
+   "Promoción",
+   [
+    "Una pieza llamativa no vende si no dice dónde comprar el libro.",
+    "Escenas con Lito y Pachi e insistencia en la información de compra.",
+    "Imágenes para @elde_lito que remiten a Amazon desde el perfil."
+   ]
+  ]
+ ]
+}

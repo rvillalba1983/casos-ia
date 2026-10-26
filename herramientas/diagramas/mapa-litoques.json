@@ -1,0 +1,56 @@
+{
+ "titulo": "Litoques: seis frentes, un mismo método",
+ "fondo": "#f7efe2",
+ "tinta": "#3b2a20",
+ "ruta": "assets/img/litoques/mapa-del-caso.svg",
+ "filas": [
+  [
+   "Sonido",
+   [
+    "Tocar bien no es grabar bien: picos a 0 dBFS, graves que retumban, ruido de fondo.",
+    "Describir el sonido deseado, convertirlo en hipótesis técnicas y probarlas una a una en Audacity.",
+    "Cadena de procesamiento documentada y referencias de trabajo (≈ −15 LUFS, techo −1 dBFS)."
+   ]
+  ],
+  [
+   "Álbum",
+   [
+    "Temas con atmósferas muy distintas: nana, pub irlandés, taranto, cantautor.",
+    "Criterios comunes de sonido mantenidos de sesión en sesión.",
+    "Coherencia de disco sin uniformar la personalidad de cada pieza."
+   ]
+  ],
+  [
+   "Archivos",
+   [
+    "Muchas versiones del mismo tema y riesgo de mezclar antiguas y nuevas.",
+    "Nombres de versión, registro de decisiones y resúmenes de continuidad.",
+    "Una «biblia del disco» como referencia común del proyecto."
+   ]
+  ],
+  [
+   "Imagen",
+   [
+    "Hacía falta una portada y recursos visuales sin ser diseñador.",
+    "Dirección visual de patio andaluz, generación de imágenes e iteración.",
+    "Identidad visual del disco y recursos adaptados a cada destino."
+   ]
+  ],
+  [
+   "Vídeo",
+   [
+    "Un disco instrumental necesita contenido audiovisual para mostrarse.",
+    "≈30 imágenes de un libro de poemas, Kling para movimiento y DaVinci Resolve para montar.",
+    "Metodología de producción audiovisual, desarrollada por fases."
+   ]
+  ],
+  [
+   "Publicación",
+   [
+    "Problema de acceso a CD Baby relacionado con Cloudflare.",
+    "Comparar distribuidores y entender metadatos, UPC y perfiles de artista.",
+    "Distribución contemplada con EmuBands y lanzamiento con UPC propio."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "titulo": "El método que se repitió en cada frente del disco",
+ "fondo": "#f7efe2",
+ "tinta": "#3b2a20",
+ "ruta": "assets/img/litoques/ciclo-de-trabajo.svg",
+ "centro": [
+  "Un mismo canal",
+  "para problemas",
+  "de disciplinas distintas"
+ ],
+ "leyenda": [
+  [
+   "Lo hace la persona",
+   "#b5402a"
+  ],
+  [
+   "Lo aporta la IA",
+   "#b7791f"
+  ],
+  [
+   "Se comprueba",
+   "#2f7d4f"
+  ],
+  [
+   "Se documenta",
+   "#2b5f8f"
+  ]
+ ],
+ "pasos": [
+  [
+   "Detectar",
+   "Algo no suena, no encaja o no se sabe hacer",
+   "#b5402a",
+   "PERSONA"
+  ],
+  [
+   "Describir",
+   "Contexto, datos y el resultado que se busca",
+   "#b5402a",
+   "PERSONA"
+  ],
+  [
+   "Proponer",
+   "Causas probables, alternativas y su porqué",
+   "#b7791f",
+   "IA"
+  ],
+  [
+   "Ejecutar",
+   "Elegir una opción y aplicarla en el programa",
+   "#b5402a",
+   "PERSONA"
+  ],
+  [
+   "Escuchar",
+   "Medir, comparar y decidir si convence",
+   "#2f7d4f",
+   "PERSONA"
+  ],
+  [
+   "Documentar",
+   "Llevar el aprendizaje a la biblia del disco",
+   "#2b5f8f",
+   "PERSONA + IA"
+  ]
+ ]
+}
