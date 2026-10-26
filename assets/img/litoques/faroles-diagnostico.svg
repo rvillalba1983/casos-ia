@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+  <rect width="1200" height="560" fill="#f7efe2"/>
+  <text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">«Faroles»: dos datos que cuentan historias distintas</text>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <!-- PANEL IZQUIERDO: medidas -->
+    <rect x="40" y="90" width="540" height="430" rx="16" fill="#fff" stroke="#e4ddd3"/>
+    <text x="70" y="130" font-size="14" font-weight="700" letter-spacing="2" fill="#b5402a">LO QUE SE MIDIÓ EN UNA ETAPA DEL PROCESO</text>
+
+    <!-- Medidor sonoridad -->
+    <text x="70" y="180" font-size="18" font-weight="700" fill="#3b2a20">Sonoridad media</text>
+    <text x="70" y="202" font-size="14" fill="#6b5a4c">cuánto «suena» la canción en conjunto</text>
+    <rect x="70" y="220" width="400" height="26" rx="13" fill="#efe3cf"/>
+    <rect x="70" y="220" width="277" height="26" rx="13" fill="#2f7d4f"/>
+    <text x="480" y="240" font-size="22" font-weight="700" fill="#2f7d4f">−15,4</text>
+    <text x="480" y="262" font-size="13" fill="#6b5a4c">LUFS</text>
+    <text x="70" y="272" font-size="14" fill="#2f7d4f">✓ Razonable para una guitarra acústica</text>
+
+    <!-- Medidor picos -->
+    <text x="70" y="330" font-size="18" font-weight="700" fill="#3b2a20">Pico máximo</text>
+    <text x="70" y="352" font-size="14" fill="#6b5a4c">el instante más fuerte de toda la pista</text>
+    <rect x="70" y="370" width="400" height="26" rx="13" fill="#efe3cf"/>
+    <rect x="70" y="370" width="400" height="26" rx="13" fill="#b5402a"/>
+    <line x1="455" y1="362" x2="455" y2="404" stroke="#3b2a20" stroke-width="2" stroke-dasharray="4 3"/>
+    <text x="410" y="425" font-size="12" fill="#3b2a20">−1 dBFS</text>
+    <text x="480" y="390" font-size="22" font-weight="700" fill="#b5402a">0</text>
+    <text x="480" y="412" font-size="13" fill="#6b5a4c">dBFS</text>
+    <text x="70" y="452" font-size="14" fill="#b5402a">✗ Sin margen: riesgo de saturación</text>
+
+    <text x="70" y="495" font-size="15" fill="#3b2a20" font-style="italic">Una media correcta puede esconder picos problemáticos.</text>
+
+    <!-- PANEL DERECHO: dónde mirar -->
+    <rect x="620" y="90" width="540" height="430" rx="16" fill="#fff" stroke="#e4ddd3"/>
+    <text x="650" y="130" font-size="14" font-weight="700" letter-spacing="2" fill="#b7791f">DÓNDE PROPUSO MIRAR LA IA (HIPÓTESIS)</text>
+
+    <!-- eje de frecuencias -->
+    <line x1="660" y1="400" x2="1130" y2="400" stroke="#3b2a20" stroke-width="2"/>
+    <g font-size="12" fill="#6b5a4c" text-anchor="middle">
+      <text x="680" y="420">40 Hz</text><text x="760" y="420">80</text><text x="860" y="420">250</text>
+      <text x="960" y="420">1 k</text><text x="1050" y="420">4 k</text><text x="1115" y="420">10 k</text>
+    </g>
+    <!-- espectro orientativo -->
+    <path d="M660 330 C700 300 730 250 760 245 C800 240 830 205 860 210 C900 216 930 250 960 255 C1000 262 1030 250 1050 255 C1080 262 1100 300 1130 340" fill="none" stroke="#3b2a20" stroke-width="2.5"/>
+
+    <!-- bandas -->
+    <rect x="660" y="160" width="95" height="240" fill="#b5402a" opacity="0.15"/>
+    <text x="707" y="182" text-anchor="middle" font-size="13" font-weight="700" fill="#b5402a">Atenuar</text>
+    <text x="707" y="198" text-anchor="middle" font-size="12" fill="#b5402a">&lt; 75–80 Hz</text>
+
+    <rect x="825" y="160" width="65" height="240" fill="#b7791f" opacity="0.18"/>
+    <text x="857" y="182" text-anchor="middle" font-size="13" font-weight="700" fill="#b7791f">Revisar</text>
+    <text x="857" y="198" text-anchor="middle" font-size="12" fill="#b7791f">180–280 Hz</text>
+
+    <rect x="1030" y="160" width="45" height="240" fill="#2f7d4f" opacity="0.18"/>
+    <text x="1052" y="182" text-anchor="middle" font-size="13" font-weight="700" fill="#2f7d4f">Realce</text>
+    <text x="1052" y="198" text-anchor="middle" font-size="12" fill="#2f7d4f">3,5–4,5 k</text>
+
+    <text x="650" y="455" font-size="14" fill="#3b2a20">Retumbe y vibraciones · posible «barro» · claridad de cuerdas</text>
+    <text x="650" y="495" font-size="15" fill="#3b2a20" font-style="italic">Valores para esta grabación, no para cualquier guitarra.</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+title: Casos cotidianos de uso de IA
+description: Problemas reales, cómo usamos la IA para resolverlos y qué siguió dependiendo de nosotros.
+lang: es
+baseurl: "/casos-ia"
+url: "https://rvillalba1983.github.io"
+theme: minima
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+exclude:
+  - README.md
+  - _notas-editoriales

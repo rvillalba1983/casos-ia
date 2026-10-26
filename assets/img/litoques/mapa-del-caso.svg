@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 874" width="1220" height="874">
+<rect width="1220" height="874" fill="#f7efe2"/>
+<text x="610.0" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#3b2a20">Litoques: seis frentes, un mismo método</text>
+<rect x="190" y="92" width="320" height="36" rx="18" fill="#b5402a"/>
+<text x="350.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">① PROBLEMA</text>
+<rect x="530" y="92" width="320" height="36" rx="18" fill="#b7791f"/>
+<text x="690.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">② PROCESO</text>
+<rect x="870" y="92" width="320" height="36" rx="18" fill="#2f7d4f"/>
+<text x="1030.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">③ SOLUCIÓN</text>
+<text x="170" y="215.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Sonido</text>
+<rect x="190" y="150" width="320" height="118" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="150" width="6" height="118" rx="3" fill="#b5402a"/>
+<text x="210" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Tocar bien no es grabar bien:</text>
+<text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">picos a 0 dBFS, graves que</text>
+<text x="210" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">retumban, ruido de fondo.</text>
+<path d="M512 202.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="150" width="320" height="118" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="150" width="6" height="118" rx="3" fill="#b7791f"/>
+<text x="550" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Describir el sonido deseado,</text>
+<text x="550" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">convertirlo en hipótesis técnicas</text>
+<text x="550" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">y probarlas una a una en Audacity.</text>
+<path d="M852 202.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="150" width="320" height="118" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="150" width="6" height="118" rx="3" fill="#2f7d4f"/>
+<text x="890" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Cadena de procesamiento</text>
+<text x="890" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">documentada y referencias de</text>
+<text x="890" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">trabajo (≈ −15 LUFS, techo −1</text>
+<text x="890" y="244" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">dBFS).</text>
+<text x="170" y="338.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Álbum</text>
+<rect x="190" y="284" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="284" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Temas con atmósferas muy</text>
+<text x="210" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">distintas: nana, pub irlandés,</text>
+<text x="210" y="356" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">taranto, cantautor.</text>
+<path d="M512 325.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="284" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="284" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Criterios comunes de sonido</text>
+<text x="550" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">mantenidos de sesión en sesión.</text>
+<path d="M852 325.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="284" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="284" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Coherencia de disco sin uniformar</text>
+<text x="890" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">la personalidad de cada pieza.</text>
+<text x="170" y="450.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Archivos</text>
+<rect x="190" y="396" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="396" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Muchas versiones del mismo tema y</text>
+<text x="210" y="446" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">riesgo de mezclar antiguas y</text>
+<text x="210" y="468" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">nuevas.</text>
+<path d="M512 437.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="396" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="396" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Nombres de versión, registro de</text>
+<text x="550" y="446" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">decisiones y resúmenes de</text>
+<text x="550" y="468" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">continuidad.</text>
+<path d="M852 437.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="396" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="396" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una «biblia del disco» como</text>
+<text x="890" y="446" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">referencia común del proyecto.</text>
+<text x="170" y="562.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Imagen</text>
+<rect x="190" y="508" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="508" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Hacía falta una portada y recursos</text>
+<text x="210" y="558" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">visuales sin ser diseñador.</text>
+<path d="M512 549.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="508" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="508" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Dirección visual de patio andaluz,</text>
+<text x="550" y="558" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">generación de imágenes e</text>
+<text x="550" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">iteración.</text>
+<path d="M852 549.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="508" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="508" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Identidad visual del disco y</text>
+<text x="890" y="558" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">recursos adaptados a cada destino.</text>
+<text x="170" y="674.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Vídeo</text>
+<rect x="190" y="620" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="620" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un disco instrumental necesita</text>
+<text x="210" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">contenido audiovisual para</text>
+<text x="210" y="692" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">mostrarse.</text>
+<path d="M512 661.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="620" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="620" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">≈30 imágenes de un libro de</text>
+<text x="550" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">poemas, Kling para movimiento y</text>
+<text x="550" y="692" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">DaVinci Resolve para montar.</text>
+<path d="M852 661.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="620" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="620" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Metodología de producción</text>
+<text x="890" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">audiovisual, desarrollada por</text>
+<text x="890" y="692" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">fases.</text>
+<text x="170" y="786.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Publicación</text>
+<rect x="190" y="732" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="732" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="760" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Problema de acceso a CD Baby</text>
+<text x="210" y="782" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">relacionado con Cloudflare.</text>
+<path d="M512 773.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="732" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="732" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="760" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Comparar distribuidores y entender</text>
+<text x="550" y="782" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">metadatos, UPC y perfiles de</text>
+<text x="550" y="804" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">artista.</text>
+<path d="M852 773.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="732" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="732" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="760" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Distribución contemplada con</text>
+<text x="890" y="782" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">EmuBands y lanzamiento con UPC</text>
+<text x="890" y="804" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">propio.</text>
+</svg>

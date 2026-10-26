@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+  <rect width="1200" height="500" fill="#f7efe2"/>
+  <text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Del WAV terminado a las plataformas: el tramo administrativo</text>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <!-- 1 -->
+    <rect x="40" y="110" width="240" height="190" rx="14" fill="#fff" stroke="#3b2a20" stroke-width="1.5"/>
+    <text x="60" y="145" font-size="13" font-weight="700" letter-spacing="2" fill="#6b5a4c">1 · MATERIAL</text>
+    <text x="60" y="180" font-size="17" fill="#3b2a20">Canciones finales</text>
+    <text x="60" y="204" font-size="17" fill="#3b2a20">Portada</text>
+    <text x="60" y="228" font-size="17" fill="#3b2a20">Títulos y nombre</text>
+    <text x="60" y="252" font-size="17" fill="#3b2a20">de artista</text>
+    <path d="M290 205 h30 m-10 -9 l10 9 l-10 9" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- 2 -->
+    <rect x="330" y="110" width="240" height="190" rx="14" fill="#fff" stroke="#3b2a20" stroke-width="1.5"/>
+    <text x="350" y="145" font-size="13" font-weight="700" letter-spacing="2" fill="#6b5a4c">2 · METADATOS</text>
+    <text x="350" y="180" font-size="17" fill="#3b2a20">Identificadores del</text>
+    <text x="350" y="204" font-size="17" fill="#3b2a20">lanzamiento</text>
+    <rect x="350" y="222" width="200" height="40" rx="6" fill="#f3f1ee"/>
+    <g fill="#3b2a20">
+      <rect x="360" y="228" width="2" height="22"/><rect x="365" y="228" width="1" height="22"/><rect x="369" y="228" width="3" height="22"/><rect x="375" y="228" width="1" height="22"/><rect x="379" y="228" width="2" height="22"/><rect x="384" y="228" width="1" height="22"/><rect x="388" y="228" width="3" height="22"/><rect x="394" y="228" width="1" height="22"/>
+    </g>
+    <text x="404" y="248" font-size="13" font-family="Courier New, monospace" fill="#3b2a20">UPC 5063930086686</text>
+    <path d="M580 205 h30 m-10 -9 l10 9 l-10 9" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- 3 -->
+    <rect x="620" y="110" width="260" height="190" rx="14" fill="#fff" stroke="#3b2a20" stroke-width="1.5"/>
+    <text x="640" y="145" font-size="13" font-weight="700" letter-spacing="2" fill="#6b5a4c">3 · DISTRIBUIDOR</text>
+    <rect x="640" y="165" width="220" height="40" rx="8" fill="#fbeee9" stroke="#b5402a"/>
+    <text x="655" y="190" font-size="14.5" fill="#b5402a">CD Baby · problema de acceso</text>
+    <rect x="640" y="218" width="220" height="40" rx="8" fill="#eaf6ee" stroke="#2f7d4f"/>
+    <text x="655" y="243" font-size="15" fill="#2f7d4f" font-weight="700">EmuBands · alternativa</text>
+    <text x="640" y="284" font-size="12" fill="#6b5a4c">Problema relacionado con Cloudflare</text>
+    <path d="M890 205 h30 m-10 -9 l10 9 l-10 9" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- 4 -->
+    <rect x="930" y="110" width="230" height="190" rx="14" fill="#fff" stroke="#3b2a20" stroke-width="1.5"/>
+    <text x="950" y="145" font-size="13" font-weight="700" letter-spacing="2" fill="#6b5a4c">4 · PRESENCIA</text>
+    <text x="950" y="180" font-size="17" fill="#3b2a20">Plataformas de</text>
+    <text x="950" y="204" font-size="17" fill="#3b2a20">escucha</text>
+    <text x="950" y="238" font-size="17" fill="#3b2a20">Perfil de artista</text>
+    <text x="950" y="262" font-size="17" fill="#3b2a20">y canal oficial</text>
+
+    <!-- IA / humano -->
+    <rect x="40" y="340" width="555" height="120" rx="12" fill="#fdf5e6" stroke="#b7791f"/>
+    <text x="60" y="372" font-size="13" font-weight="700" letter-spacing="2" fill="#b7791f">LO QUE APORTÓ LA IA</text>
+    <text x="60" y="400" font-size="15" fill="#3b2a20">Comparar alternativas, explicar cada pieza del proceso</text>
+    <text x="60" y="422" font-size="15" fill="#3b2a20">(distribuidor, plataforma, perfil, canal oficial) y</text>
+    <text x="60" y="444" font-size="15" fill="#3b2a20">preparar listas de comprobación.</text>
+
+    <rect x="605" y="340" width="555" height="120" rx="12" fill="#fbeee9" stroke="#b5402a"/>
+    <text x="625" y="372" font-size="13" font-weight="700" letter-spacing="2" fill="#b5402a">LO QUE SIGUIÓ SIENDO HUMANO</text>
+    <text x="625" y="400" font-size="15" fill="#3b2a20">Gestionar cuentas, rellenar metadatos, entregar</text>
+    <text x="625" y="422" font-size="15" fill="#3b2a20">archivos y verificar el estado del lanzamiento en las</text>
+    <text x="625" y="444" font-size="15" fill="#3b2a20">fuentes oficiales.</text>
+  </g>
+</svg>

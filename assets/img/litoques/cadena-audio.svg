@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+  <rect width="1200" height="560" fill="#f7efe2"/>
+  <text x="600" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Una cadena de procesamiento explorada en Audacity</text>
+  <text x="600" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6b5a4c">Punto de partida para una grabación concreta · cambiar un parámetro cada vez · escuchar y medir después de cada paso</text>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <!-- Paso 1 -->
+    <g transform="translate(40 140)">
+      <rect width="190" height="232" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+      <circle cx="30" cy="30" r="18" fill="#b7791f"/><text x="30" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">1</text>
+      <text x="20" y="80" font-size="20" font-weight="700" fill="#3b2a20">Ecualización</text>
+      <text x="20" y="104" font-size="20" font-weight="700" fill="#3b2a20">correctiva</text>
+      <!-- mini curva EQ -->
+      <path d="M20 180 C40 180 45 150 60 150 L95 150 C105 150 110 160 120 160 C130 160 135 150 145 150 L170 145" fill="none" stroke="#b5402a" stroke-width="3"/>
+      <line x1="20" y1="150" x2="170" y2="150" stroke="#c9b9a4" stroke-dasharray="4 4"/>
+      <text x="20" y="214" font-size="13" fill="#6b5a4c">graves · «barro» · presencia</text>
+    </g>
+    <path d="M238 245 l22 0 m-8 -8 l8 8 l-8 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- Paso 2 -->
+    <g transform="translate(270 140)">
+      <rect width="190" height="232" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+      <circle cx="30" cy="30" r="18" fill="#b7791f"/><text x="30" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">2</text>
+      <text x="20" y="80" font-size="20" font-weight="700" fill="#3b2a20">Compresión</text>
+      <text x="20" y="104" font-size="20" font-weight="700" fill="#3b2a20">moderada</text>
+      <text x="20" y="136" font-size="15" fill="#3b2a20">Umbral −18 dB</text>
+      <text x="20" y="157" font-size="15" fill="#3b2a20">Proporción 2:1</text>
+      <text x="20" y="178" font-size="15" fill="#3b2a20">Ataque 25 ms</text>
+      <text x="20" y="199" font-size="15" fill="#3b2a20">Recuperación 150 ms</text>
+    </g>
+    <path d="M468 245 l22 0 m-8 -8 l8 8 l-8 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- Paso 3 -->
+    <g transform="translate(500 140)">
+      <rect width="190" height="232" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+      <circle cx="30" cy="30" r="18" fill="#b7791f"/><text x="30" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">3</text>
+      <text x="20" y="80" font-size="20" font-weight="700" fill="#3b2a20">Ajuste de</text>
+      <text x="20" y="104" font-size="20" font-weight="700" fill="#3b2a20">sonoridad</text>
+      <rect x="20" y="130" width="150" height="14" rx="7" fill="#efe3cf"/>
+      <rect x="20" y="130" width="104" height="14" rx="7" fill="#2f7d4f"/>
+      <text x="20" y="178" font-size="15" fill="#3b2a20">Referencia de</text>
+      <text x="20" y="199" font-size="15" fill="#3b2a20">trabajo ≈ −15 LUFS</text>
+    </g>
+    <path d="M698 245 l22 0 m-8 -8 l8 8 l-8 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- Paso 4 -->
+    <g transform="translate(730 140)">
+      <rect width="190" height="232" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+      <circle cx="30" cy="30" r="18" fill="#b7791f"/><text x="30" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">4</text>
+      <text x="20" y="80" font-size="20" font-weight="700" fill="#3b2a20">Limitación</text>
+      <text x="20" y="104" font-size="20" font-weight="700" fill="#3b2a20">de picos</text>
+      <line x1="20" y1="140" x2="170" y2="140" stroke="#b5402a" stroke-width="2" stroke-dasharray="6 4"/>
+      <path d="M20 190 L35 160 L45 175 L60 141 L72 168 L85 141 L100 180 L115 150 L130 141 L145 172 L170 160" fill="none" stroke="#3b2a20" stroke-width="2"/>
+      <text x="20" y="216" font-size="15" fill="#3b2a20">Techo ≈ −1 dBFS</text>
+    </g>
+    <path d="M928 245 l22 0 m-8 -8 l8 8 l-8 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+
+    <!-- Paso 5 -->
+    <g transform="translate(960 140)">
+      <rect width="200" height="232" rx="14" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="2"/>
+      <circle cx="30" cy="30" r="18" fill="#2f7d4f"/><text x="30" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">5</text>
+      <text x="20" y="80" font-size="20" font-weight="700" fill="#3b2a20">Exportar WAV</text>
+      <text x="20" y="104" font-size="20" font-weight="700" fill="#3b2a20">y escuchar</text>
+      <path d="M40 150 h18 l22 -18 v56 l-22 -18 h-18 z" fill="#2f7d4f"/>
+      <path d="M92 145 q12 15 0 30 M104 136 q22 24 0 48" fill="none" stroke="#2f7d4f" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="216" font-size="15" fill="#3b2a20">¿Suena como quería?</text>
+    </g>
+
+    <!-- Bucle de vuelta -->
+    <path d="M1060 380 C1060 440 140 440 140 380" fill="none" stroke="#b5402a" stroke-width="2.5" stroke-dasharray="8 6"/>
+    <path d="M132 392 l8 -14 l8 14" fill="none" stroke="#b5402a" stroke-width="2.5"/>
+    <text x="600" y="466" text-anchor="middle" font-size="16" fill="#b5402a" font-weight="700">Si no convence: volver atrás, tocar un solo ajuste y medir de nuevo</text>
+
+    <!-- Nota de ruido -->
+    <rect x="240" y="488" width="720" height="44" rx="10" fill="#fff" stroke="#6b5a4c" stroke-dasharray="5 4"/>
+    <text x="600" y="516" text-anchor="middle" font-size="15" fill="#3b2a20">Decisión del proyecto: la reducción de ruido se dejó para el final. El orden ideal depende del material.</text>
+  </g>
+</svg>

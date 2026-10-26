@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 920" width="1220" height="920">
+<rect width="1220" height="920" fill="#f6f0e2"/>
+<text x="610.0" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#1f1f2e">DeLito: del cuaderno al escaparate</text>
+<rect x="190" y="92" width="320" height="36" rx="18" fill="#b5402a"/>
+<text x="350.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">① PROBLEMA</text>
+<rect x="530" y="92" width="320" height="36" rx="18" fill="#b7791f"/>
+<text x="690.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">② PROCESO</text>
+<rect x="870" y="92" width="320" height="36" rx="18" fill="#2f7d4f"/>
+<text x="1030.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">③ SOLUCIÓN</text>
+<text x="170" y="204.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Concepto</text>
+<rect x="190" y="150" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="150" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un libro que es poemario, diario,</text>
+<text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">juego, confesionario y carta de</text>
+<text x="210" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">amor a la vez.</text>
+<path d="M512 191.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="150" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="150" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Conversar para ordenar ideas y</text>
+<text x="550" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">fijarlas en una biblia del</text>
+<text x="550" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">proyecto.</text>
+<path d="M852 191.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="150" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="150" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un documento maestro que evita</text>
+<text x="890" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">reconstruir el contexto en cada</text>
+<text x="890" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">sesión.</text>
+<text x="170" y="316.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Personajes</text>
+<rect x="190" y="262" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="262" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Generar imágenes sueltas es fácil;</text>
+<text x="210" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">que Lito y Pachi sigan siendo los</text>
+<text x="210" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">mismos, no.</text>
+<path d="M512 303.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="262" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="262" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Usar la página 3 del libro como</text>
+<text x="550" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">modelo de referencia y revisar</text>
+<text x="550" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">cada resultado.</text>
+<path d="M852 303.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="262" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="262" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un método para mantenerlos</text>
+<text x="890" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">reconocibles, con la validación</text>
+<text x="890" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">final del autor.</text>
+<text x="170" y="428.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Estética</text>
+<rect x="190" y="374" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="374" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una imagen bonita puede no parecer</text>
+<text x="210" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">del mismo libro que las demás.</text>
+<path d="M512 415.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="374" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="374" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Describir el papel, la textura y</text>
+<text x="550" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">el estilo propios y comparar</text>
+<text x="550" y="446" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">variantes.</text>
+<path d="M852 415.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="374" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="374" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un universo visual común: papeles</text>
+<text x="890" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">y elementos «de la casa».</text>
+<text x="170" y="529.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Interior</text>
+<rect x="190" y="486" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="486" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Páginas, globos y versiones que</text>
+<text x="210" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">había que unir sin duplicados.</text>
+<path d="M512 516.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="486" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="486" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Inventarios, listas de control y</text>
+<text x="550" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">nombres de versión claros.</text>
+<path d="M852 516.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="486" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="486" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un interior unificado identificado</text>
+<text x="890" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">por su versión (v7).</text>
+<text x="170" y="619.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Impresión</text>
+<rect x="190" y="576" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="576" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Un PDF que se ve bien en pantalla</text>
+<text x="210" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">no siempre se puede imprimir.</text>
+<path d="M512 606.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="576" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="576" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Traducir «quiero imprimirlo» a</text>
+<text x="550" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">medidas, sangrado, páginas y lomo.</text>
+<path d="M852 606.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="576" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="576" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Parámetros documentados para la</text>
+<text x="890" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">versión de 63 páginas.</text>
+<text x="170" y="720.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Cubierta</text>
+<rect x="190" y="666" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="666" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="694" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una portada suelta no es una</text>
+<text x="210" y="716" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">cubierta: faltan lomo y</text>
+<text x="210" y="738" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">contraportada.</text>
+<path d="M512 707.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="666" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="666" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="694" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Planificar la cubierta completa</text>
+<text x="550" y="716" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">con sus zonas y medidas.</text>
+<path d="M852 707.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="666" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="666" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="694" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Cubierta completa de 10,518 ×</text>
+<text x="890" y="716" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">8,060 pulgadas para esa versión.</text>
+<text x="170" y="832.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1f2e">Promoción</text>
+<rect x="190" y="778" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="778" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="806" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una pieza llamativa no vende si no</text>
+<text x="210" y="828" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">dice dónde comprar el libro.</text>
+<path d="M512 819.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="530" y="778" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="778" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="806" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Escenas con Lito y Pachi e</text>
+<text x="550" y="828" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">insistencia en la información de</text>
+<text x="550" y="850" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">compra.</text>
+<path d="M852 819.0 l14 7 l-14 7 z" fill="#1f1f2e" opacity="0.55"/>
+<rect x="870" y="778" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="778" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="806" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Imágenes para @elde_lito que</text>
+<text x="890" y="828" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">remiten a Amazon desde el perfil.</text>
+</svg>

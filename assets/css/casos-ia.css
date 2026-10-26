@@ -1,0 +1,194 @@
+/* ==========================================================
+   Casos cotidianos de uso de IA — estilos de los posts
+   Bloques: problema · proceso · solución · aprendizaje · rigor
+   Funciona con cualquier tema de Jekyll (se enlaza desde el post).
+   ========================================================== */
+
+:root {
+  --c-problema: #b5402a;
+  --c-problema-bg: #fbeee9;
+  --c-proceso: #b7791f;
+  --c-proceso-bg: #fdf5e6;
+  --c-solucion: #2f7d4f;
+  --c-solucion-bg: #eaf6ee;
+  --c-aprendizaje: #2b5f8f;
+  --c-aprendizaje-bg: #eaf2fa;
+  --c-rigor: #5d5a55;
+  --c-rigor-bg: #f3f1ee;
+  --c-texto: #2a2622;
+  --c-borde: #e4ddd3;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-problema-bg: #3a2420;
+    --c-proceso-bg: #3a3020;
+    --c-solucion-bg: #1f3428;
+    --c-aprendizaje-bg: #1d2c3c;
+    --c-rigor-bg: #2c2b29;
+    --c-texto: #ece6dc;
+    --c-borde: #4a443d;
+  }
+}
+
+/* ---------- Figuras ---------- */
+.post-figura {
+  margin: 2rem 0;
+  text-align: center;
+}
+.post-figura img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid var(--c-borde);
+}
+.post-figura figcaption {
+  font-size: 0.88rem;
+  opacity: 0.8;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* ---------- Entradilla ---------- */
+.entradilla {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  border-left: 4px solid var(--c-proceso);
+  padding: 0.25rem 0 0.25rem 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+/* ---------- Ficha del caso ---------- */
+.ficha {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.ficha > div {
+  border: 1px solid var(--c-borde);
+  border-radius: 10px;
+  padding: 0.75rem 0.9rem;
+  font-size: 0.92rem;
+}
+.ficha strong {
+  display: block;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.7;
+  margin-bottom: 0.2rem;
+}
+
+/* ---------- Bloques problema / proceso / solución ---------- */
+.bloque {
+  position: relative;
+  border-radius: 10px;
+  padding: 1rem 1.2rem 0.6rem 1.2rem;
+  margin: 1.4rem 0;
+  border-left: 6px solid;
+  color: var(--c-texto);
+}
+.bloque > :first-child { margin-top: 0; }
+.bloque::before {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  color: #fff;
+  margin-bottom: 0.6rem;
+}
+.bloque-problema    { background: var(--c-problema-bg);    border-color: var(--c-problema); }
+.bloque-proceso     { background: var(--c-proceso-bg);     border-color: var(--c-proceso); }
+.bloque-solucion    { background: var(--c-solucion-bg);    border-color: var(--c-solucion); }
+.bloque-aprendizaje { background: var(--c-aprendizaje-bg); border-color: var(--c-aprendizaje); }
+.bloque-rigor       { background: var(--c-rigor-bg);       border-color: var(--c-rigor); font-size: 0.93rem; }
+
+.bloque-problema::before    { content: "① El problema";        background: var(--c-problema); }
+.bloque-proceso::before     { content: "② El proceso";         background: var(--c-proceso); }
+.bloque-solucion::before    { content: "③ La solución";        background: var(--c-solucion); }
+.bloque-aprendizaje::before { content: "Lo que te puedes llevar"; background: var(--c-aprendizaje); }
+.bloque-rigor::before       { content: "Nota de rigor";        background: var(--c-rigor); }
+
+/* ---------- Reparto IA / humano dentro del proceso ---------- */
+.reparto {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin: 0.6rem 0 0.8rem;
+}
+@media (max-width: 560px) { .reparto { grid-template-columns: 1fr; } }
+.reparto > div {
+  background: rgba(255, 255, 255, 0.55);
+  border-radius: 8px;
+  padding: 0.6rem 0.8rem;
+  font-size: 0.93rem;
+}
+@media (prefers-color-scheme: dark) {
+  .reparto > div { background: rgba(0, 0, 0, 0.2); }
+}
+.reparto strong { display: block; margin-bottom: 0.25rem; }
+
+/* ---------- Etiquetas de estado (hecho / propuesta / pendiente) ---------- */
+.etiqueta {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  vertical-align: middle;
+  border: 1px solid currentColor;
+  margin-right: 0.3rem;
+}
+.etiqueta.hecho     { color: var(--c-solucion); }
+.etiqueta.propuesta { color: var(--c-proceso); }
+.etiqueta.pendiente { color: var(--c-problema); }
+.etiqueta.futuro    { color: var(--c-aprendizaje); }
+
+/* ---------- Subtítulo ---------- */
+.subtitulo {
+  font-size: 1.25rem;
+  font-style: italic;
+  opacity: 0.85;
+  margin: -0.5rem 0 1.5rem;
+}
+
+/* ---------- Leyenda y tablas ---------- */
+.leyenda {
+  font-size: 0.88rem;
+  border: 1px dashed var(--c-borde);
+  border-radius: 8px;
+  padding: 0.6rem 0.9rem;
+  margin: 1rem 0 2rem;
+}
+.tabla-scroll { overflow-x: auto; margin: 1.2rem 0; }
+.tabla-scroll table { border-collapse: collapse; width: 100%; font-size: 0.93rem; }
+.tabla-scroll th, .tabla-scroll td {
+  border-bottom: 1px solid var(--c-borde);
+  padding: 0.55rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+.tabla-scroll th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; }
+
+/* ---------- Capítulo ---------- */
+.capitulo-num {
+  display: block;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin-top: 3rem;
+}
+
+/* Las figuras enlazan a su versión completa para leerlas en el móvil */
+.post-figura a { display: block; }
+.post-figura a:hover img { box-shadow: 0 4px 18px rgba(0,0,0,0.12); }
+@media (max-width: 600px) {
+  .post-figura figcaption::after { content: " · Toca para ampliar."; }
+}

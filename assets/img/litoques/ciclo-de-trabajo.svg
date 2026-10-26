@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 830" width="1200" height="830">
+<rect width="1200" height="830" fill="#f7efe2"/>
+<text x="600.0" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">El método que se repitió en cada frente del disco</text>
+<circle cx="600" cy="410" r="270" fill="none" stroke="#3b2a20" stroke-opacity="0.18" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(735.0 176.2) rotate(30.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(870.0 410.0) rotate(90.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(735.0 643.8) rotate(150.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(465.0 643.8) rotate(210.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(330.0 410.0) rotate(270.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(465.0 176.2) rotate(330.0)" fill="#3b2a20" opacity="0.5"/>
+<rect x="485.0" y="88.0" width="230" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="509.0" cy="112.0" r="15" fill="#b5402a"/>
+<text x="509.0" y="118.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="533.0" y="118.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Detectar</text>
+<text x="501.0" y="148.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Algo no suena, no encaja o</text>
+<text x="501.0" y="167.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">no se sabe hacer</text>
+<text x="703.0" y="182.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">PERSONA</text>
+<rect x="718.8" y="223.0" width="230" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="742.8" cy="247.0" r="15" fill="#b5402a"/>
+<text x="742.8" y="253.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">2</text>
+<text x="766.8" y="253.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Describir</text>
+<text x="734.8" y="283.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Contexto, datos y el</text>
+<text x="734.8" y="302.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">resultado que se busca</text>
+<text x="936.8" y="317.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">PERSONA</text>
+<rect x="718.8" y="493.0" width="230" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="742.8" cy="517.0" r="15" fill="#b7791f"/>
+<text x="742.8" y="523.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">3</text>
+<text x="766.8" y="523.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Proponer</text>
+<text x="734.8" y="553.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Causas probables,</text>
+<text x="734.8" y="572.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">alternativas y su porqué</text>
+<text x="936.8" y="587.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">IA</text>
+<rect x="485.0" y="628.0" width="230" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="509.0" cy="652.0" r="15" fill="#b5402a"/>
+<text x="509.0" y="658.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="533.0" y="658.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Ejecutar</text>
+<text x="501.0" y="688.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Elegir una opción y</text>
+<text x="501.0" y="707.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">aplicarla en el programa</text>
+<text x="703.0" y="722.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">PERSONA</text>
+<rect x="251.2" y="493.0" width="230" height="104" rx="14" fill="#fff" stroke="#2f7d4f" stroke-width="2.5"/>
+<circle cx="275.2" cy="517.0" r="15" fill="#2f7d4f"/>
+<text x="275.2" y="523.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="299.2" y="523.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Escuchar</text>
+<text x="267.2" y="553.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Medir, comparar y decidir si</text>
+<text x="267.2" y="572.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">convence</text>
+<text x="469.2" y="587.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2f7d4f">PERSONA</text>
+<rect x="251.2" y="223.0" width="230" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="275.2" cy="247.0" r="15" fill="#2b5f8f"/>
+<text x="275.2" y="253.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">6</text>
+<text x="299.2" y="253.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Documentar</text>
+<text x="267.2" y="283.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Llevar el aprendizaje a la</text>
+<text x="267.2" y="302.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">biblia del disco</text>
+<text x="469.2" y="317.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">PERSONA + IA</text>
+<text x="600" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#3b2a20">Un mismo canal</text>
+<text x="600" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">para problemas</text>
+<text x="600" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">de disciplinas distintas</text>
+<rect x="60" y="788" width="16" height="16" rx="4" fill="#b5402a"/>
+<text x="84" y="801" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Lo hace la persona</text>
+<rect x="280" y="788" width="16" height="16" rx="4" fill="#b7791f"/>
+<text x="304" y="801" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Lo aporta la IA</text>
+<rect x="500" y="788" width="16" height="16" rx="4" fill="#2f7d4f"/>
+<text x="524" y="801" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Se comprueba</text>
+<rect x="720" y="788" width="16" height="16" rx="4" fill="#2b5f8f"/>
+<text x="744" y="801" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Se documenta</text>
+</svg>

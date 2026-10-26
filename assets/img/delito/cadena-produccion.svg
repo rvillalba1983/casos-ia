@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+<rect width="1200" height="600" fill="#f6f0e2"/>
+<text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#1f1f2e">La cadena de producción de un libro ilustrado</text>
+<text x="600" y="82" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#5d5a55">Orden lógico orientativo: en la práctica las fases se solapan y se vuelve atrás</text>
+<rect x="40" y="115" width="1120" height="120" rx="16" fill="#fff" stroke="#c8102e" stroke-width="2"/>
+<rect x="40" y="115" width="140" height="120" rx="16" fill="#c8102e"/><rect x="160" y="115" width="20" height="120" fill="#c8102e"/>
+<text x="110" y="182" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#fff">CREAR</text>
+<rect x="200.0" y="145" width="214.0" height="60" rx="30" fill="#fbf7ee" stroke="#c8102e" stroke-width="1.5"/>
+<text x="307.0" y="181" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Idea</text>
+<path d="M420.0 175 h14 m-6 -6 l6 6 l-6 6" stroke="#c8102e" stroke-width="2.5" fill="none"/>
+<rect x="442.0" y="145" width="214.0" height="60" rx="30" fill="#fbf7ee" stroke="#c8102e" stroke-width="1.5"/>
+<text x="549.0" y="181" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Concepto</text>
+<path d="M662.0 175 h14 m-6 -6 l6 6 l-6 6" stroke="#c8102e" stroke-width="2.5" fill="none"/>
+<rect x="684.0" y="145" width="214.0" height="60" rx="30" fill="#fbf7ee" stroke="#c8102e" stroke-width="1.5"/>
+<text x="791.0" y="171" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Biblia</text>
+<text x="791.0" y="190" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">del proyecto</text>
+<path d="M904.0 175 h14 m-6 -6 l6 6 l-6 6" stroke="#c8102e" stroke-width="2.5" fill="none"/>
+<rect x="926.0" y="145" width="214.0" height="60" rx="30" fill="#fbf7ee" stroke="#c8102e" stroke-width="1.5"/>
+<text x="1033.0" y="171" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Personajes</text>
+<text x="1033.0" y="190" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">y referencias</text>
+<path d="M600 237 v18 m-7 -7 l7 7 l7 -7" stroke="#1f1f2e" stroke-width="2.5" fill="none"/>
+<rect x="40" y="265" width="1120" height="120" rx="16" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+<rect x="40" y="265" width="140" height="120" rx="16" fill="#b7791f"/><rect x="160" y="265" width="20" height="120" fill="#b7791f"/>
+<text x="110" y="332" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#fff">PRODUCIR</text>
+<rect x="200.0" y="295" width="165.6" height="60" rx="30" fill="#fbf7ee" stroke="#b7791f" stroke-width="1.5"/>
+<text x="282.8" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Imágenes</text>
+<text x="282.8" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">y revisión</text>
+<path d="M371.6 325 h14 m-6 -6 l6 6 l-6 6" stroke="#b7791f" stroke-width="2.5" fill="none"/>
+<rect x="393.6" y="295" width="165.6" height="60" rx="30" fill="#fbf7ee" stroke="#b7791f" stroke-width="1.5"/>
+<text x="476.4" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Organizar</text>
+<text x="476.4" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">contenido</text>
+<path d="M565.2 325 h14 m-6 -6 l6 6 l-6 6" stroke="#b7791f" stroke-width="2.5" fill="none"/>
+<rect x="587.2" y="295" width="165.6" height="60" rx="30" fill="#fbf7ee" stroke="#b7791f" stroke-width="1.5"/>
+<text x="670.0" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Unificar</text>
+<text x="670.0" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">el interior</text>
+<path d="M758.8 325 h14 m-6 -6 l6 6 l-6 6" stroke="#b7791f" stroke-width="2.5" fill="none"/>
+<rect x="780.8" y="295" width="165.6" height="60" rx="30" fill="#fbf7ee" stroke="#b7791f" stroke-width="1.5"/>
+<text x="863.6" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Preparar</text>
+<text x="863.6" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">la cubierta</text>
+<path d="M952.4 325 h14 m-6 -6 l6 6 l-6 6" stroke="#b7791f" stroke-width="2.5" fill="none"/>
+<rect x="974.4" y="295" width="165.6" height="60" rx="30" fill="#fbf7ee" stroke="#b7791f" stroke-width="1.5"/>
+<text x="1057.2" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Validar</text>
+<text x="1057.2" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">para impresión</text>
+<path d="M600 387 v18 m-7 -7 l7 7 l7 -7" stroke="#1f1f2e" stroke-width="2.5" fill="none"/>
+<rect x="40" y="415" width="1120" height="120" rx="16" fill="#fff" stroke="#2f7d4f" stroke-width="2"/>
+<rect x="40" y="415" width="140" height="120" rx="16" fill="#2f7d4f"/><rect x="160" y="415" width="20" height="120" fill="#2f7d4f"/>
+<text x="110" y="482" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#fff">LANZAR</text>
+<rect x="200.0" y="445" width="456.0" height="60" rx="30" fill="#fbf7ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<text x="428.0" y="471" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Publicación</text>
+<text x="428.0" y="490" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">en Amazon</text>
+<path d="M662.0 475 h14 m-6 -6 l6 6 l-6 6" stroke="#2f7d4f" stroke-width="2.5" fill="none"/>
+<rect x="684.0" y="445" width="456.0" height="60" rx="30" fill="#fbf7ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<text x="912.0" y="471" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">Promoción</text>
+<text x="912.0" y="490" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e">en Instagram</text>
+<text x="600" y="575" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f1f2e"><tspan font-weight="700">Creativo</tspan> (ilustrar, decidir) y <tspan font-weight="700">técnico</tspan> (calcular un lomo, ensamblar un PDF) son trabajos distintos, aunque un mismo asistente ayude en ambos.</text>
+</svg>
