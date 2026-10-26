@@ -1,0 +1,223 @@
+/* Portada del blog · misma paleta que los casos */
+:root {
+  --p-problema: #b5402a;
+  --p-proceso: #b7791f;
+  --p-solucion: #2f7d4f;
+  --p-tinta: #2a2622;
+  --p-suave: #6b5a4c;
+  --p-crema: #f7efe2;
+  --p-borde: #e4ddd3;
+}
+
+/* El tema minima ya pone el título en la cabecera: ocultamos el h1 duplicado de la página */
+.home > h1.page-heading { display: none; }
+
+/* ---------- Hero ---------- */
+.portada-hero {
+  position: relative;
+  margin: 0.5rem 0 3rem;
+  padding: 2.4rem 1.6rem 2rem;
+  border-radius: 20px;
+  color: #fbe7c6;
+  background:
+    radial-gradient(circle at 15% 20%, rgba(255, 207, 115, 0.28), transparent 40%),
+    radial-gradient(circle at 85% 30%, rgba(255, 207, 115, 0.18), transparent 45%),
+    linear-gradient(160deg, #2a1a14 0%, #5a2e1c 60%, #8a4a26 100%);
+  overflow: hidden;
+}
+.portada-hero::after {
+  /* hilo rojo decorativo */
+  content: "";
+  position: absolute;
+  right: -40px;
+  bottom: -60px;
+  width: 260px;
+  height: 260px;
+  border: 3px solid rgba(200, 16, 46, 0.45);
+  border-radius: 50%;
+  pointer-events: none;
+}
+.portada-antetitulo {
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #f2c98d;
+  margin: 0 0 0.6rem;
+}
+.portada-titulo {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2rem, 6vw, 3.2rem);
+  line-height: 1.1;
+  color: #fbe7c6;
+  margin: 0 0 1rem;
+}
+.portada-intro p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 38rem;
+  color: #f6e3c8;
+  margin: 0 0 1.6rem;
+}
+.portada-intro strong { color: #fff; }
+
+.portada-pasos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: stretch;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.portada-pasos .paso {
+  flex: 1 1 150px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.6rem;
+  align-items: center;
+  padding: 0.7rem 0.9rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.paso-num {
+  grid-row: span 2;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  color: #fff;
+}
+.paso-problema .paso-num { background: var(--p-problema); }
+.paso-proceso .paso-num { background: var(--p-proceso); }
+.paso-solucion .paso-num { background: var(--p-solucion); }
+.paso-nombre { font-weight: 700; color: #fff; }
+.paso-desc { font-size: 0.85rem; color: #f2c98d; }
+.paso-flecha {
+  align-self: center;
+  font-size: 1.4rem;
+  color: #f2c98d;
+}
+@media (max-width: 640px) {
+  .portada-hero { padding: 1.8rem 1.1rem 1.5rem; }
+  .paso-flecha { display: none; }
+  .portada-pasos { flex-direction: column; }
+}
+
+/* ---------- Secciones ---------- */
+.portada-seccion { margin: 0 0 3rem; }
+.portada-seccion h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.7rem;
+  margin: 0;
+}
+.portada-seccion-cabecera {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 2px solid var(--p-borde);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.4rem;
+}
+.portada-contador { font-size: 0.85rem; color: var(--p-suave); }
+
+/* ---------- Tarjetas ---------- */
+.portada-tarjetas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.4rem;
+}
+.tarjeta {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid var(--p-borde);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.tarjeta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(42, 26, 20, 0.12);
+}
+.tarjeta-imagen { display: block; aspect-ratio: 16 / 7; background: var(--p-crema); }
+.tarjeta-imagen img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tarjeta-cuerpo { display: flex; flex-direction: column; flex: 1; padding: 1.1rem 1.2rem 1.2rem; }
+.tarjeta-meta { font-size: 0.8rem; color: var(--p-suave); margin: 0 0 0.4rem; }
+.tarjeta-titulo {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  line-height: 1.3;
+  margin: 0 0 0.6rem;
+}
+.tarjeta-titulo a { color: var(--p-tinta); }
+.tarjeta-titulo a:hover { color: var(--p-problema); text-decoration: none; }
+.tarjeta-extracto { font-size: 0.95rem; line-height: 1.55; color: #4a4540; margin: 0 0 0.9rem; }
+.tarjeta-etiquetas {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.tarjeta-etiquetas li {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: var(--p-crema);
+  color: var(--p-suave);
+  margin: 0;
+}
+.tarjeta-leer {
+  margin-top: auto;
+  font-weight: 700;
+  color: var(--p-solucion);
+}
+.tarjeta-leer:hover { text-decoration: none; opacity: 0.85; }
+
+/* ---------- Método ---------- */
+.portada-metodo {
+  background: var(--p-crema);
+  border-radius: 20px;
+  padding: 1.8rem 1.4rem 1.4rem;
+}
+.portada-metodo h2 { margin-bottom: 1.2rem; color: var(--p-tinta); }
+.metodo-columnas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.metodo {
+  background: #fff;
+  border-radius: 12px;
+  border-left: 6px solid;
+  padding: 0.9rem 1rem 0.4rem;
+}
+.metodo h3 { font-size: 1rem; margin: 0 0 0.4rem; }
+.metodo p { font-size: 0.92rem; line-height: 1.5; color: #4a4540; }
+.metodo-problema { border-color: var(--p-problema); }
+.metodo-problema h3 { color: var(--p-problema); }
+.metodo-proceso { border-color: var(--p-proceso); }
+.metodo-proceso h3 { color: var(--p-proceso); }
+.metodo-solucion { border-color: var(--p-solucion); }
+.metodo-solucion h3 { color: var(--p-solucion); }
+.metodo-rigor { font-size: 0.88rem; color: var(--p-suave); margin: 1.2rem 0 0; line-height: 1.9; }
+.etiq {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+}
+.etiq-hecho { color: var(--p-solucion); }
+.etiq-propuesta { color: var(--p-proceso); }
+.etiq-pendiente { color: var(--p-problema); }

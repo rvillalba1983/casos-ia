@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/portada.css' | relative_url }}">
+
+{%- assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," -%}
+
+<section class="portada-hero">
+  <p class="portada-antetitulo">Casos reales · IA en la vida cotidiana</p>
+  <h1 class="portada-titulo">{{ site.title }}</h1>
+  <div class="portada-intro">{{ content }}</div>
+
+  <ol class="portada-pasos" aria-label="Cómo está contado cada caso">
+    <li class="paso paso-problema"><span class="paso-num">1</span><span class="paso-nombre">Problema</span><span class="paso-desc">Lo que no sabíamos hacer</span></li>
+    <li class="paso-flecha" aria-hidden="true">→</li>
+    <li class="paso paso-proceso"><span class="paso-num">2</span><span class="paso-nombre">Proceso</span><span class="paso-desc">Cómo nos ayudó la IA</span></li>
+    <li class="paso-flecha" aria-hidden="true">→</li>
+    <li class="paso paso-solucion"><span class="paso-num">3</span><span class="paso-nombre">Solución</span><span class="paso-desc">Qué conseguimos y con qué límites</span></li>
+  </ol>
+</section>
+
+<section class="portada-seccion">
+  <div class="portada-seccion-cabecera">
+    <h2>Los casos</h2>
+    <span class="portada-contador">{{ site.posts | size }} {% if site.posts.size == 1 %}caso publicado{% else %}casos publicados{% endif %}</span>
+  </div>
+
+  <div class="portada-tarjetas">
+    {%- for post in site.posts -%}
+      {%- assign m = post.date | date: "%-m" | minus: 1 -%}
+      {%- assign palabras = post.content | strip_html | number_of_words -%}
+      {%- assign minutos = palabras | divided_by: 200 | plus: 1 -%}
+      <article class="tarjeta">
+        <a class="tarjeta-imagen" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+          {%- if post.image -%}
+            <img src="{{ post.image | replace: '.png', '.svg' | relative_url }}" alt="" loading="lazy">
+          {%- endif -%}
+        </a>
+        <div class="tarjeta-cuerpo">
+          <p class="tarjeta-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d" }} de {{ meses[m] }} de {{ post.date | date: "%Y" }}</time>
+            · {{ minutos }} min de lectura
+          </p>
+          <h3 class="tarjeta-titulo"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+          {%- if post.description -%}
+            <p class="tarjeta-extracto">{{ post.description | escape }}</p>
+          {%- endif -%}
+          {%- if post.tags.size > 0 -%}
+            <ul class="tarjeta-etiquetas">
+              {%- for t in post.tags limit: 4 -%}<li>{{ t | replace: '-', ' ' }}</li>{%- endfor -%}
+            </ul>
+          {%- endif -%}
+          <a class="tarjeta-leer" href="{{ post.url | relative_url }}">Leer el caso <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+    {%- endfor -%}
+  </div>
+</section>
+
+<section class="portada-seccion portada-metodo">
+  <h2>Cómo contamos cada caso</h2>
+  <div class="metodo-columnas">
+    <div class="metodo metodo-problema">
+      <h3>① El problema</h3>
+      <p>Qué necesitábamos, por qué era difícil y por qué no bastaba con buscar un tutorial.</p>
+    </div>
+    <div class="metodo metodo-proceso">
+      <h3>② El proceso</h3>
+      <p>Qué aportó la IA, qué herramientas intervinieron y qué siguió decidiendo una persona.</p>
+    </div>
+    <div class="metodo metodo-solucion">
+      <h3>③ La solución</h3>
+      <p>El resultado real, con enlaces a lo que se creó, y sus límites contados sin adornos.</p>
+    </div>
+  </div>
+  <p class="metodo-rigor">
+    <span class="etiq etiq-hecho">Hecho</span> lo que consta que se hizo ·
+    <span class="etiq etiq-propuesta">Propuesta</span> lo que se planteó o exploró ·
+    <span class="etiq etiq-pendiente">Por verificar</span> lo que conviene confirmar.
+    Sin cifras inventadas ni promesas mágicas.
+  </p>
+</section>
