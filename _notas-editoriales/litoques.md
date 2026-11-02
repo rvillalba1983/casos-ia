@@ -85,4 +85,4 @@ Litoques es un disco acústico de guitarra con influencia flamenca, creado por L
 - [x] Sigue siendo **no comercial**.
 
 ### Pendientes
-- [ ] Enlace al Instagram del disco y al videoclip de «Flora».
+- [x] Videoclip de «Flora»: https://www.instagram.com/p/DdSdIc5CbC9/ (cuenta @rau_lito_83). Otros vídeos del disco en la misma cuenta (códigos DcY_dBpNcBW, DcbiLsjtY4k, DcZAXB_NMd9); copias en Drive, carpeta «Videos Instagram».

@@ -32,6 +32,7 @@ lang: es
   <div class="botones">
     <a class="boton" href="https://open.spotify.com/album/58NEzKaxV9MBQJ0cqzJ5IH" target="_blank" rel="noopener">▶ Escuchar en Spotify</a>
     <a class="boton secundario" href="https://open.spotify.com/artist/35esiCfNa15JxyDhy94JuM" target="_blank" rel="noopener">Perfil de Lito</a>
+    <a class="boton secundario" href="https://www.instagram.com/p/DdSdIc5CbC9/" target="_blank" rel="noopener">Videoclip de «Flora»</a>
   </div>
 </div>
 
@@ -297,6 +298,16 @@ Una **estrategia híbrida**: IA donde aporta creatividad (movimiento, variacione
 
 <div class="bloque bloque-rigor" markdown="1">
 El flujo con Kling y DaVinci Resolve fue un **planteamiento**, no lo que se ejecutó. <span class="etiqueta hecho">Hecho</span> Lo que sí se publicó en Instagram es un **videoclip de «Flora»** y varias **versiones en directo** de temas del disco. Se cuenta el método porque pensar el vídeo con la IA sirve igual a quien quiera hacerlo.
+</div>
+
+<div class="resultado" markdown="0">
+  <span class="resultado-titulo">Mira el videoclip de «Flora»</span>
+  <p>Tema 8 del disco, publicado en Instagram.</p>
+  <iframe src="https://www.instagram.com/p/DdSdIc5CbC9/embed/" height="640" loading="lazy" scrolling="no" allowtransparency="true" title="Videoclip de Flora en Instagram" style="max-width:420px;display:block;margin:1rem auto 0;"></iframe>
+  <div class="botones" style="margin-top:1rem">
+    <a class="boton" href="https://www.instagram.com/p/DdSdIc5CbC9/" target="_blank" rel="noopener">▶ Ver en Instagram</a>
+    <a class="boton secundario" href="https://www.instagram.com/rau_lito_83/" target="_blank" rel="noopener">Más vídeos del disco</a>
+  </div>
 </div>
 
 <span class="capitulo-num">Capítulo 8</span>
