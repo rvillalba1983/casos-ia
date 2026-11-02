@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+<rect width="1200" height="640" fill="#f7efe2"/>
+<text x="600" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Una semana del radar: scripts para lo mecánico, IA para el criterio</text>
+<rect x="40" y="100" width="262" height="300" rx="16" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<rect x="40" y="100" width="262" height="48" rx="16" fill="#2b5f8f"/><rect x="40" y="130" width="262" height="18" fill="#2b5f8f"/>
+<text x="171.0" y="131" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">MIÉRCOLES</text>
+<text x="60" y="190" font-family="Georgia, serif" font-size="25" fill="#3b2a20">Refrescar</text>
+<text x="60" y="214" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT EN GITHUB</text>
+<circle cx="66" cy="254" r="4" fill="#2b5f8f"/><text x="80" y="259" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">2 últimos vídeos de cada artista</text>
+<circle cx="66" cy="298" r="4" fill="#2b5f8f"/><text x="80" y="303" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Fechas nuevas de conciertos</text>
+<circle cx="66" cy="342" r="4" fill="#2b5f8f"/><text x="80" y="347" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Repone fotos caídas</text>
+<path d="M304 250 h12 m-6 -6 l6 6 l-6 6" stroke="#3b2a20" stroke-width="2.5" fill="none"/>
+<rect x="320" y="100" width="262" height="300" rx="16" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<rect x="320" y="100" width="262" height="48" rx="16" fill="#2b5f8f"/><rect x="320" y="130" width="262" height="18" fill="#2b5f8f"/>
+<text x="451.0" y="131" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">JUEVES TARDE</text>
+<text x="340" y="190" font-family="Georgia, serif" font-size="25" fill="#3b2a20">Recolectar</text>
+<text x="340" y="214" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT EN GITHUB</text>
+<circle cx="346" cy="254" r="4" fill="#2b5f8f"/><text x="360" y="259" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Agendas de Granada, Sevilla</text>
+<circle cx="346" cy="298" r="4" fill="#2b5f8f"/><text x="360" y="303" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">y otras 17 provincias</text>
+<circle cx="346" cy="342" r="4" fill="#2b5f8f"/><text x="360" y="347" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Lista de candidatos con datos</text>
+<path d="M584 250 h12 m-6 -6 l6 6 l-6 6" stroke="#3b2a20" stroke-width="2.5" fill="none"/>
+<rect x="600" y="100" width="262" height="300" rx="16" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+<rect x="600" y="100" width="262" height="48" rx="16" fill="#b7791f"/><rect x="600" y="130" width="262" height="18" fill="#b7791f"/>
+<text x="731.0" y="131" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">VIERNES 8:47</text>
+<text x="620" y="190" font-family="Georgia, serif" font-size="25" fill="#3b2a20">Elegir y escribir</text>
+<text x="620" y="214" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#b7791f">TAREA DE IA</text>
+<circle cx="626" cy="254" r="4" fill="#b7791f"/><text x="640" y="259" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Elige 5 candidatos</text>
+<circle cx="626" cy="298" r="4" fill="#b7791f"/><text x="640" y="303" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Comprueba datos y redacta</text>
+<circle cx="626" cy="342" r="4" fill="#b7791f"/><text x="640" y="347" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Publica la entrada y avisa</text>
+<path d="M864 250 h12 m-6 -6 l6 6 l-6 6" stroke="#3b2a20" stroke-width="2.5" fill="none"/>
+<rect x="880" y="100" width="262" height="300" rx="16" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<rect x="880" y="100" width="262" height="48" rx="16" fill="#2b5f8f"/><rect x="880" y="130" width="262" height="18" fill="#2b5f8f"/>
+<text x="1011.0" y="131" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">TRAS CADA CAMBIO</text>
+<text x="900" y="190" font-family="Georgia, serif" font-size="25" fill="#3b2a20">Revisar</text>
+<text x="900" y="214" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT EN GITHUB</text>
+<circle cx="906" cy="254" r="4" fill="#2b5f8f"/><text x="920" y="259" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Datos, repetidos, fotos, vídeos</text>
+<circle cx="906" cy="298" r="4" fill="#2b5f8f"/><text x="920" y="303" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Si falla, aviso por correo</text>
+<circle cx="906" cy="342" r="4" fill="#2b5f8f"/><text x="920" y="347" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Los datos no se tocan</text>
+<rect x="320" y="440" width="560" height="64" rx="32" fill="#eaf2fa" stroke="#2b5f8f" stroke-width="2"/>
+<text x="600" y="469" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b5f8f">Datos del radar en el repositorio</text>
+<text x="600" y="491" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">artistas · conciertos · vídeos · candidatos</text>
+<line x1="171.0" y1="402" x2="407" y2="440" stroke="#2b5f8f" stroke-dasharray="5 4" stroke-width="1.5"/>
+<line x1="451.0" y1="402" x2="533" y2="440" stroke="#2b5f8f" stroke-dasharray="5 4" stroke-width="1.5"/>
+<line x1="731.0" y1="402" x2="659" y2="440" stroke="#2b5f8f" stroke-dasharray="5 4" stroke-width="1.5"/>
+<line x1="1011.0" y1="402" x2="785" y2="440" stroke="#2b5f8f" stroke-dasharray="5 4" stroke-width="1.5"/>
+<rect x="40" y="540" width="1120" height="70" rx="12" fill="#fff" stroke="#e4ddd3"/>
+<rect x="64" y="560" width="14" height="14" rx="3" fill="#2b5f8f"/><text x="86" y="572" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20"><tspan font-weight="700">Script:</tspan> tareas repetibles, sin IA, con pausas de 6–10 s en YouTube y 3–5 s en agendas</text>
+<rect x="64" y="584" width="14" height="14" rx="3" fill="#b7791f"/><text x="86" y="596" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20"><tspan font-weight="700">IA:</tspan> solo donde hace falta elegir, comprobar con criterio y escribir</text>
+</svg>

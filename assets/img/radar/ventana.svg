@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430">
+<rect width="1200" height="430" fill="#f7efe2"/>
+<text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">La ventana: solo entra quien toca cerca en el tiempo</text>
+<text x="600" y="84" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6b5a4c">Regla desde el 25 de octubre (la Nº 1 es anterior y no la sigue)</text>
+<rect x="199.3" y="150" width="801.4" height="110" rx="14" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="2"/>
+<line x1="90" y1="205" x2="1110" y2="205" stroke="#3b2a20" stroke-width="2"/>
+<line x1="90.0" y1="199" x2="90.0" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="126.4" y1="199" x2="126.4" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="162.9" y1="199" x2="162.9" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="199.3" y1="199" x2="199.3" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="235.7" y1="199" x2="235.7" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="272.1" y1="199" x2="272.1" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="308.6" y1="199" x2="308.6" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="345.0" y1="199" x2="345.0" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="381.4" y1="199" x2="381.4" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="417.9" y1="199" x2="417.9" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="454.3" y1="199" x2="454.3" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="490.7" y1="199" x2="490.7" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="527.1" y1="199" x2="527.1" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="563.6" y1="199" x2="563.6" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="600.0" y1="199" x2="600.0" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="636.4" y1="199" x2="636.4" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="672.9" y1="199" x2="672.9" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="709.3" y1="199" x2="709.3" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="745.7" y1="199" x2="745.7" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="782.1" y1="199" x2="782.1" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="818.6" y1="199" x2="818.6" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="855.0" y1="199" x2="855.0" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="891.4" y1="199" x2="891.4" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="927.9" y1="199" x2="927.9" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="964.3" y1="199" x2="964.3" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="1000.7" y1="199" x2="1000.7" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="1037.1" y1="199" x2="1037.1" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="1073.6" y1="199" x2="1073.6" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="1110.0" y1="199" x2="1110.0" y2="211" stroke="#3b2a20" stroke-opacity="0.5"/>
+<line x1="454.3" y1="120" x2="454.3" y2="290" stroke="#c8102e" stroke-width="3"/>
+<text x="454.3" y="112" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#c8102e">Día de la entrada</text>
+<text x="199.3" y="300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2f7d4f">−7 días</text>
+<text x="1000.7" y="300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2f7d4f">+15 días</text>
+<circle cx="126.4" cy="205" r="11" fill="#b5402a"/>
+<text x="126.4" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✗</text>
+<circle cx="308.6" cy="205" r="11" fill="#2f7d4f"/>
+<text x="308.6" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✓</text>
+<circle cx="527.1" cy="205" r="11" fill="#2f7d4f"/>
+<text x="527.1" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✓</text>
+<circle cx="600.0" cy="205" r="11" fill="#2f7d4f"/>
+<text x="600.0" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✓</text>
+<circle cx="927.9" cy="205" r="11" fill="#2f7d4f"/>
+<text x="927.9" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✓</text>
+<circle cx="1073.6" cy="205" r="11" fill="#b5402a"/>
+<text x="1073.6" y="211" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">✗</text>
+<text x="782" y="245" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#2f7d4f">Concierto dentro de la ventana: el artista puede entrar</text>
+<text x="126.4" y="245" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#b5402a">fuera</text>
+<text x="1073.6" y="245" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#b5402a">fuera</text>
+<rect x="90" y="335" width="1020" height="62" rx="12" fill="#fff" stroke="#e4ddd3"/>
+<text x="600" y="362" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Además: emergente de verdad, sin repetir de entradas anteriores y sin artistas que el autor ya sigue.</text>
+<text x="600" y="384" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#3b2a20">Prioridad a Granada y Andalucía, y hueco para Latinoamérica.</text>
+</svg>

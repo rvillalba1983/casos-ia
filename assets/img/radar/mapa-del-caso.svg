@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 740" width="1220" height="740">
+<rect width="1220" height="740" fill="#f7efe2"/>
+<text x="610.0" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#3b2a20">Radar de salas: de una charla a un diario que se mantiene solo</text>
+<rect x="190" y="92" width="320" height="36" rx="18" fill="#b5402a"/>
+<text x="350.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">① PROBLEMA</text>
+<rect x="530" y="92" width="320" height="36" rx="18" fill="#b7791f"/>
+<text x="690.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">② PROCESO</text>
+<rect x="870" y="92" width="320" height="36" rx="18" fill="#2f7d4f"/>
+<text x="1030.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">③ SOLUCIÓN</text>
+<text x="170" y="204.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Descubrir</text>
+<rect x="190" y="150" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="150" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Encontrar artistas emergentes con</text>
+<text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">concierto cerca, más allá de lo</text>
+<text x="210" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">que ya escuchas.</text>
+<path d="M512 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="150" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="150" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Recomendaciones por chat a partir</text>
+<text x="550" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">de tus gustos de Spotify.</text>
+<path d="M852 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="150" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="150" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Primera tanda de cinco artistas el</text>
+<text x="890" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">23 de octubre.</text>
+<text x="170" y="316.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Formato</text>
+<rect x="190" y="262" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="262" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Las recomendaciones del chat no</text>
+<text x="210" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">quedaban en un sitio fijo para</text>
+<text x="210" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">consultarlas.</text>
+<path d="M512 303.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="262" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="262" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Diario web con ventana de</text>
+<text x="550" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">conciertos, foto, redes y dos</text>
+<text x="550" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">vídeos por artista.</text>
+<path d="M852 303.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="262" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="262" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Web en GitHub Pages desde el 25 de</text>
+<text x="890" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">octubre.</text>
+<text x="170" y="428.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Criterio</text>
+<rect x="190" y="374" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="374" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Mezclar notas internas con el</text>
+<text x="210" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">contenido y repetir artistas.</text>
+<path d="M512 415.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="374" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="374" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Reglas escritas: diario neutro,</text>
+<text x="550" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">solo emergentes, sin repetir ni</text>
+<text x="550" y="446" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">artistas que ya sigues.</text>
+<path d="M852 415.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="374" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="374" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una skill y un CLAUDE.md con las</text>
+<text x="890" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">instrucciones fijas.</text>
+<text x="170" y="540.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Datos</text>
+<rect x="190" y="486" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="486" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">YouTube e Instagram no se leen</text>
+<text x="210" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">desde la nube; homónimos en</text>
+<text x="210" y="558" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Spotify.</text>
+<path d="M512 527.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="486" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="486" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Scripts que leen YouTube,</text>
+<text x="550" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">comprobar perfiles por su lista de</text>
+<text x="550" y="558" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">temas.</text>
+<path d="M852 527.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="486" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="486" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Datos verificados sin pasar por tu</text>
+<text x="890" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">ordenador.</text>
+<text x="170" y="652.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Rutina</text>
+<rect x="190" y="598" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="598" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Depender del ordenador personal y</text>
+<text x="210" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">de que la IA no falle el viernes.</text>
+<path d="M512 639.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="598" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="598" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Tres scripts en GitHub y una tarea</text>
+<text x="550" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">de IA semanal, con esperas y</text>
+<text x="550" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">reintentos.</text>
+<path d="M852 639.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="598" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="598" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Desde el 2 de noviembre funciona</text>
+<text x="890" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">en la nube, cada semana.</text>
+</svg>

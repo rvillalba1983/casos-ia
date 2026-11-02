@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
+<rect width="1200" height="880" fill="#f7efe2"/>
+<text x="600.0" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">La semana del Radar: scripts para lo mecánico, IA para lo editorial</text>
+<circle cx="600" cy="445" r="315" fill="none" stroke="#3b2a20" stroke-opacity="0.18" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(736.7 161.2) rotate(25.7)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(907.1 374.9) rotate(77.1)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(846.3 641.4) rotate(128.6)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(600.0 760.0) rotate(180.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(353.7 641.4) rotate(231.4)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(292.9 374.9) rotate(282.9)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(463.3 161.2) rotate(334.3)" fill="#3b2a20" opacity="0.5"/>
+<rect x="485.0" y="78.0" width="230" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="509.0" cy="102.0" r="15" fill="#2b5f8f"/>
+<text x="509.0" y="108.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="533.0" y="108.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Refrescar</text>
+<text x="501.0" y="138.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Miércoles: vídeos nuevos,</text>
+<text x="501.0" y="157.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">fechas y fotos caídas</text>
+<text x="703.0" y="172.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT</text>
+<rect x="731.3" y="196.6" width="230" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="755.3" cy="220.6" r="15" fill="#2b5f8f"/>
+<text x="755.3" y="226.6" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">2</text>
+<text x="779.3" y="226.6" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Recolectar</text>
+<text x="747.3" y="256.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Jueves: agendas de 19</text>
+<text x="747.3" y="275.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">provincias, candidatos</text>
+<text x="949.3" y="290.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT</text>
+<rect x="792.1" y="463.1" width="230" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="816.1" cy="487.1" r="15" fill="#b7791f"/>
+<text x="816.1" y="493.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">3</text>
+<text x="840.1" y="493.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Elegir</text>
+<text x="808.1" y="523.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Viernes 8:47: cinco</text>
+<text x="808.1" y="542.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">candidatos y sus datos</text>
+<text x="1010.1" y="557.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">IA</text>
+<rect x="621.7" y="676.8" width="230" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="645.7" cy="700.8" r="15" fill="#b7791f"/>
+<text x="645.7" y="706.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="669.7" y="706.8" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Escribir</text>
+<text x="637.7" y="736.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Textos neutros de cada</text>
+<text x="637.7" y="755.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">artista y la entrada</text>
+<text x="839.7" y="770.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">IA</text>
+<rect x="348.3" y="676.8" width="230" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="372.3" cy="700.8" r="15" fill="#2b5f8f"/>
+<text x="372.3" y="706.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="396.3" y="706.8" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Revisar</text>
+<text x="364.3" y="736.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Datos, repetidos, fotos y</text>
+<text x="364.3" y="755.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">vídeos; aviso si falla</text>
+<text x="566.3" y="770.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">SCRIPT</text>
+<rect x="177.9" y="463.1" width="230" height="104" rx="14" fill="#fff" stroke="#2f7d4f" stroke-width="2.5"/>
+<circle cx="201.9" cy="487.1" r="15" fill="#2f7d4f"/>
+<text x="201.9" y="493.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">6</text>
+<text x="225.9" y="493.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Publicar</text>
+<text x="193.9" y="523.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Nueva entrada en GitHub</text>
+<text x="193.9" y="542.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Pages y aviso</text>
+<text x="395.9" y="557.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2f7d4f">IA + SCRIPT</text>
+<rect x="238.7" y="196.6" width="230" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="262.7" cy="220.6" r="15" fill="#b5402a"/>
+<text x="262.7" y="226.6" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">7</text>
+<text x="286.7" y="226.6" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Leer</text>
+<text x="254.7" y="256.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Revisar la entrada y decidir</text>
+<text x="254.7" y="275.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">cambios</text>
+<text x="456.7" y="290.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">PERSONA</text>
+<text x="600" y="435" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#3b2a20">Cada pieza hace</text>
+<text x="600" y="465" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">solo lo que</text>
+<text x="600" y="495" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">sabe hacer bien</text>
+<rect x="60" y="838" width="16" height="16" rx="4" fill="#2b5f8f"/>
+<text x="84" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Script en GitHub</text>
+<rect x="280" y="838" width="16" height="16" rx="4" fill="#b7791f"/>
+<text x="304" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Tarea de IA</text>
+<rect x="500" y="838" width="16" height="16" rx="4" fill="#b5402a"/>
+<text x="524" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Persona</text>
+<rect x="720" y="838" width="16" height="16" rx="4" fill="#2f7d4f"/>
+<text x="744" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Publicado</text>
+</svg>

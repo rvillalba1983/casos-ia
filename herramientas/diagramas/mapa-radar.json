@@ -1,0 +1,10 @@
+{"titulo": "Radar de salas: de una charla a un diario que se mantiene solo",
+ "fondo": "#f7efe2", "tinta": "#3b2a20",
+ "ruta": "assets/img/radar/mapa-del-caso.svg",
+ "filas": [
+  ["Descubrir", ["Encontrar artistas emergentes con concierto cerca, más allá de lo que ya escuchas.", "Recomendaciones por chat a partir de tus gustos de Spotify.", "Primera tanda de cinco artistas el 23 de octubre."]],
+  ["Formato", ["Las recomendaciones del chat no quedaban en un sitio fijo para consultarlas.", "Diario web con ventana de conciertos, foto, redes y dos vídeos por artista.", "Web en GitHub Pages desde el 25 de octubre."]],
+  ["Criterio", ["Mezclar notas internas con el contenido y repetir artistas.", "Reglas escritas: diario neutro, solo emergentes, sin repetir ni artistas que ya sigues.", "Una skill y un CLAUDE.md con las instrucciones fijas."]],
+  ["Datos", ["YouTube e Instagram no se leen desde la nube; homónimos en Spotify.", "Scripts que leen YouTube, comprobar perfiles por su lista de temas.", "Datos verificados sin pasar por tu ordenador."]],
+  ["Rutina", ["Depender del ordenador personal y de que la IA no falle el viernes.", "Tres scripts en GitHub y una tarea de IA semanal, con esperas y reintentos.", "Desde el 2 de noviembre funciona en la nube, cada semana."]]
+ ]}

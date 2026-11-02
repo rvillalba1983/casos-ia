@@ -1,0 +1,15 @@
+{"titulo": "La semana del Radar: scripts para lo mecánico, IA para lo editorial",
+ "fondo": "#f7efe2", "tinta": "#3b2a20",
+ "ruta": "assets/img/radar/semana.svg",
+ "centro": ["Cada pieza hace", "solo lo que", "sabe hacer bien"],
+ "leyenda": [["Script en GitHub", "#2b5f8f"], ["Tarea de IA", "#b7791f"], ["Persona", "#b5402a"], ["Publicado", "#2f7d4f"]],
+ "H": 880, "cy": 445, "R": 315, "bw": 230,
+ "pasos": [
+  ["Refrescar", "Miércoles: vídeos nuevos, fechas y fotos caídas", "#2b5f8f", "SCRIPT"],
+  ["Recolectar", "Jueves: agendas de 19 provincias, candidatos", "#2b5f8f", "SCRIPT"],
+  ["Elegir", "Viernes 8:47: cinco candidatos y sus datos", "#b7791f", "IA"],
+  ["Escribir", "Textos neutros de cada artista y la entrada", "#b7791f", "IA"],
+  ["Revisar", "Datos, repetidos, fotos y vídeos; aviso si falla", "#2b5f8f", "SCRIPT"],
+  ["Publicar", "Nueva entrada en GitHub Pages y aviso", "#2f7d4f", "IA + SCRIPT"],
+  ["Leer", "Revisar la entrada y decidir cambios", "#b5402a", "PERSONA"]
+ ]}
