@@ -32,9 +32,9 @@
     <!-- Fondo 2660x1140 -->
     <rect x="600" y="140" width="330" height="141" rx="6" fill="url(#patio)"/>
     <line x1="765" y1="140" x2="765" y2="281" stroke="#fbe7c6" stroke-dasharray="5 4" opacity="0.6"/>
-    <text x="765" y="300" text-anchor="middle" font-size="16" font-weight="700" fill="#3b2a20">Fondo visual para Spotify</text>
-    <text x="765" y="322" text-anchor="middle" font-size="14" fill="#6b5a4c">referencia de trabajo: 2660 × 1140 px</text>
-    <text x="765" y="342" text-anchor="middle" font-size="13" fill="#b5402a">(comprobar la especificación vigente)</text>
+    <text x="765" y="300" text-anchor="middle" font-size="16" font-weight="700" fill="#3b2a20">Cabecera del perfil en Spotify</text>
+    <text x="765" y="322" text-anchor="middle" font-size="14" fill="#6b5a4c">2660 × 1140 px (mínimo de Spotify)</text>
+    <text x="765" y="342" text-anchor="middle" font-size="13" fill="#b5402a">Canvas es otra cosa: vídeo vertical 9:16</text>
 
     <!-- Vídeo 16:9 -->
     <rect x="975" y="140" width="190" height="107" rx="6" fill="url(#patio)"/>

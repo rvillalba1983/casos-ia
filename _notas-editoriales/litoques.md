@@ -67,15 +67,18 @@ Litoques es un disco acústico de guitarra con influencia flamenca, creado por L
 2. **Mesa de trabajo cenital**: guitarra, interfaz de audio, auriculares y un portátil con la forma de onda de Audacity; sobre la mesa, un cuaderno abierto rotulado «biblia del disco».
 3. **Díptico**: a la izquierda, la mano en el traste 12 con el micrófono apuntando; a la derecha, la misma escena convertida en ilustración de carboncillo, como guiño a las transformaciones de fotos del proyecto.
 
-## 7. Hechos que conviene verificar antes de publicar
+## 7. Hechos que conviene verificar
 
-- [ ] **Spotify «Canvas» y 2660 × 1140 px.** Esa medida coincide con la que suele recomendarse para la *imagen de cabecera del perfil de artista*, mientras que Canvas es un vídeo corto en vertical. El post habla de «fondo visual para Spotify» para no afirmar lo que no consta. Confirmar a qué recurso se refería.
-- [ ] **Official Artist Channel.** Es un programa de YouTube (unifica el canal «Tema» generado automáticamente con el del artista). El brief lo situaba en Spotify. El post lo menciona sin asignarlo a una plataforma: confirmar si fue en YouTube.
-- [ ] Versión de **DaVinci Resolve (21)** y de **Audacity (3.7.8)** usadas realmente.
+### Resueltos (2 de noviembre de 2026)
+- [x] **2660 × 1140 px**: es el mínimo de Spotify para la imagen de **cabecera del perfil de artista** (https://support.spotify.com/artists/article/artist-image-guidelines). Canvas es un vídeo vertical 9:16 de 3 a 8 s (https://support.spotify.com/artists/article/canvas-guidelines/). Post y diagrama corregidos.
+- [x] **Official Artist Channel**: es de YouTube y se pide a través del distribuidor o el sello (https://support.google.com/youtube/answer/7336634). Post corregido.
+- [x] **Enlaces al disco**: Spotify álbum y perfil, añadidos al post.
+
+### Pendientes de confirmar con el autor
+- [ ] ¿Con qué distribuidor salió finalmente el disco: EmuBands u otro?
+- [ ] ¿Se consiguió el Official Artist Channel de YouTube o sigue en trámite?
+- [ ] Versiones reales de **DaVinci Resolve (21)** y **Audacity (3.7.8)**.
 - [ ] Qué equipo se usó en qué etapa (RC-500, RØDE M3, Maono, PS22 Lite).
-- [ ] Estado final de **EmuBands**: ¿solo contemplado o se completó la distribución por esa vía?
-- [ ] Estado del **lanzamiento** y del **UPC 5063930086686** en el distribuidor y las plataformas.
-- [ ] Lista de **temas finalizados** y título exacto de cada uno (incluido «17 vivir tranquilo», que no aparece en la lista de piezas).
+- [ ] Lista de **temas finalizados** y título exacto de cada uno (¿«17 vivir tranquilo» está en el disco?).
 - [ ] Cuántos **vídeos** se completaron a partir de las ≈30 imágenes del libro de poemas.
-- [ ] Si el proyecto es todavía **no comercial** o ha cambiado de enfoque.
-- [ ] Permiso del autor para publicar nombres de archivo, UPC y valores técnicos.
+- [ ] Si el proyecto sigue siendo **no comercial**.

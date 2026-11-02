@@ -258,7 +258,7 @@ Un flujo en dos capas. La **IA generativa** crea o transforma el contenido visua
 </div>
 
 <div class="bloque bloque-rigor" markdown="1">
-Una imagen generada no garantiza que los textos estén bien escritos, que el encuadre cumpla los requisitos de una plataforma ni que el archivo tenga las dimensiones correctas. Para un fondo visual de Spotify se trabajó con una **referencia de 2660 × 1140 píxeles** <span class="etiqueta pendiente">Por verificar</span>; las medidas definitivas deben comprobarse siempre en la especificación vigente del servicio.
+Una imagen generada no garantiza que los textos estén bien escritos, que el encuadre cumpla los requisitos de una plataforma ni que el archivo tenga las dimensiones correctas. En el proyecto se trabajó con una medida de **2660 × 1140 píxeles**, que según la [guía de Spotify](https://support.spotify.com/artists/article/artist-image-guidelines) es el tamaño mínimo de la **imagen de cabecera del perfil de artista**. No hay que confundirla con [Canvas](https://support.spotify.com/artists/article/canvas-guidelines/), el vídeo vertical 9:16 de 3 a 8 segundos que acompaña a cada canción. Las medidas conviene comprobarlas siempre en la especificación vigente del servicio.
 </div>
 
 <span class="capitulo-num">Capítulo 7</span>
@@ -316,7 +316,7 @@ Aquí la IA no generó contenido. Hizo algo igual de útil: **ayudar a investiga
 
 - <span class="etiqueta hecho">Hecho</span> El lanzamiento tiene asociado el **UPC 5063930086686**.
 - <span class="etiqueta propuesta">Contemplado</span> Distribución mediante **EmuBands** como alternativa.
-- <span class="etiqueta hecho">Hecho</span> Se trabajó en la presencia del artista: la gestión de un **perfil generado automáticamente** y la solicitud de un **Official Artist Channel**.
+- <span class="etiqueta hecho">Hecho</span> Se trabajó en la presencia del artista: la gestión de un **perfil generado automáticamente** y la solicitud de un **Official Artist Channel**, el canal oficial de artista de YouTube, que [se pide a través del distribuidor o del sello](https://support.google.com/youtube/answer/7336634).
 </div>
 
 <div class="bloque bloque-solucion" markdown="1">

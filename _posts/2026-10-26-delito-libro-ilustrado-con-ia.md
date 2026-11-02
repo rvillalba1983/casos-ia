@@ -164,11 +164,11 @@ Aquí la IA actúa como **intermediaria entre un objetivo y el conocimiento téc
 </div>
 
 <div class="bloque bloque-solucion" markdown="1">
-Una lista de medidas **coherente entre sí**: el ancho de la cubierta es exactamente la suma de sangrados, contraportada, lomo y portada. La IA puede ayudar a interpretar requisitos, detectar inconsistencias, entender errores de validación y preparar o revisar scripts de procesamiento de PDF.
+Una lista de medidas **coherente entre sí**: el ancho de la cubierta es exactamente la suma de sangrados, contraportada, lomo y portada. Y el lomo cuadra con la [fórmula de KDP](https://kdp.amazon.com/help/topic/G201953020) para papel a color prémium: 63 páginas × 0,002347 pulgadas ≈ 0,148 pulgadas. La IA puede ayudar a interpretar requisitos, detectar inconsistencias, entender errores de validación y preparar o revisar scripts de procesamiento de PDF.
 </div>
 
 <div class="bloque bloque-rigor" markdown="1">
-Estos valores corresponden a **una versión concreta** y no son especificaciones universales. Los cálculos y la aceptación del archivo se comprueban con las especificaciones vigentes de la plataforma y con su herramienta de validación. La IA reduce la barrera técnica, pero **no sustituye la comprobación de preimpresión**.
+Estos valores corresponden a **una versión concreta** y no son especificaciones universales. El tamaño de 5,06 × 7,81 pulgadas es uno de los [formatos estándar de KDP](https://kdp.amazon.com/help/topic/G201834560) (más estrecho que un A5). Con tan pocas páginas, KDP tampoco permite poner texto en el lomo: hacen falta al menos 79. Los cálculos y la aceptación del archivo se comprueban con las especificaciones vigentes de la plataforma y con su herramienta de validación. La IA reduce la barrera técnica, pero **no sustituye la comprobación de preimpresión**.
 </div>
 
 ## 7. Una cubierta no es una portada

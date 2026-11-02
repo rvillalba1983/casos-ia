@@ -36,13 +36,17 @@ libro ilustrado con IA · autopublicación · Amazon KDP · impresión bajo dema
 2. **Reel «La referencia manda»**: de la página 3 del libro a una escena nueva con Lito y Pachi, mostrando la lista de revisión del autor. Publicado desde @elde_lito, conecta el artículo con la cuenta del libro.
 3. **Hilo «Ocho lecciones de hacer un libro con IA»** (X, Threads): una lección por mensaje (A–H) y el ciclo de iteración como imagen final.
 
-## Hechos que conviene verificar antes de publicar
+## Hechos que conviene verificar
 
-- [ ] **Páginas impares.** El interior figura con 63 páginas. Las plataformas de impresión suelen exigir un número par y añadir páginas en blanco: confirmar el recuento final.
-- [ ] **Lomo de 0,148 in.** Comprobar con la calculadora vigente de la plataforma y el tipo de papel elegido. Con las fórmulas por página habituales, 63–64 páginas no dan exactamente esa cifra.
-- [ ] **«A5» en el nombre del archivo.** `DeLito_final_A5_v7…` menciona A5 (≈5,83 × 8,27 in), mientras que el interior documentado es de 5,06 × 7,81 in. El post no lo señala como error; aclarar qué tamaño tiene la versión publicada.
-- [ ] **Texto en el lomo.** Con pocas páginas, algunas plataformas no permiten texto en el lomo. Comprobar qué se hizo.
-- [ ] Estado real de la publicación en **Amazon** (¿publicado o preparado?) y enlace definitivo.
-- [ ] Que la cuenta **@elde_lito** siga activa y con el enlace de compra en el perfil.
-- [ ] Qué herramientas concretas de generación de imágenes y de PDF se usaron (el post las cita por función, sin nombres).
+### Resueltos (2 de noviembre de 2026)
+- [x] **Lomo de 0,148 in**: cuadra exactamente con la fórmula de KDP para **papel a color prémium** (0,002347 in/página × 63 = 0,1479). Con papel blanco o crema no saldría. Fuente: https://kdp.amazon.com/help/topic/G201953020. Añadido al post.
+- [x] **Texto en el lomo**: KDP exige al menos 79 páginas; con 63 no se permite. Añadido al post.
+- [x] **Tamaño 5,06 × 7,81 in**: es un formato estándar de KDP; el A5 sería 5,83 × 8,27 in (https://kdp.amazon.com/help/topic/G201834560). El «A5» del nombre del archivo es heredado. Añadido al post.
+- [x] **Estado en Amazon**: publicado en tapa blanda (B0HD1CZ64C) y Kindle (B0HCDKP4B7). Enlaces en el post.
+- [x] **@elde_lito**: activa, con el enlace de compra (books2read) en el perfil.
+
+### Pendientes de confirmar con el autor
+- [ ] ¿El interior publicado tiene **63 o 64 páginas**? (Un PDF con número impar de páginas suele completarse con una en blanco.)
+- [ ] ¿Se eligió **papel a color prémium**? Es la única opción con la que cuadra el lomo.
+- [ ] Qué herramientas concretas de **generación de imágenes** y de **PDF** se usaron (el post las cita por función, sin nombres).
 - [ ] Permiso para mostrar nombres de archivo y la referencia «page 04».
