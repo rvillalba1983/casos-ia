@@ -146,7 +146,7 @@ Una recomendación vale lo que valen sus datos: fechas correctas, el artista cor
 </div>
 
 <div class="bloque bloque-proceso" markdown="1">
-Cada problema se trató igual: entender por qué fallaba, buscar una fuente que sí funcionara y, si la tarea era mecánica, **sacarla de la IA y pasarla a un script**.
+Cada problema se trató igual: entender por qué fallaba, buscar una fuente que sí funcionara y, si la tarea era mecánica, **sacarla de la IA y pasarla a un script**. <span class="etiqueta hecho">Hecho</span> Esos scripts también los escribió la IA: la persona explicaba qué tenían que hacer y comprobaba que funcionaban.
 </div>
 
 <div class="bloque bloque-solucion" markdown="1">
@@ -162,7 +162,7 @@ Al principio, buena parte del trabajo pasaba por el ordenador del autor y por un
 </div>
 
 <div class="bloque bloque-proceso" markdown="1">
-<span class="etiqueta hecho">Hecho</span> El 2 de noviembre la Nº 3 se publicó a mano y se rediseñó la rutina: tres scripts en GitHub hacen lo que no necesita inteligencia, y la IA se queda con lo que sí.
+<span class="etiqueta hecho">Hecho</span> El 2 de noviembre la Nº 3 se publicó a mano y se rediseñó la rutina: tres scripts en GitHub, escritos por la propia IA, hacen lo que no necesita inteligencia, y la IA se queda con lo que sí.
 
 <div class="reparto" markdown="1">
 <div markdown="1">
@@ -192,7 +192,7 @@ Los scripts son prudentes con las webs que consultan: esperan de 6 a 10 segundos
 </div>
 
 <div class="bloque bloque-aprendizaje" markdown="1">
-No todo tiene que hacerlo la IA. Lo repetitivo y comprobable (leer agendas, actualizar vídeos, validar datos) es **más fiable y más barato con un script**. La IA rinde más donde hace falta criterio: elegir y contar.
+No todo tiene que hacerlo la IA cada vez. Lo repetitivo y comprobable (leer agendas, actualizar vídeos, validar datos) es **más fiable y más barato con un script**, y la IA puede escribir ese script una vez para que luego corra solo. La IA rinde más donde hace falta criterio: elegir y contar.
 </div>
 
 <span class="capitulo-num">Capítulo 6</span>
@@ -225,6 +225,7 @@ No todo tiene que hacerlo la IA. Lo repetitivo y comprobable (leer agendas, actu
 | Tarea | 🤖 IA | ⚙️ Scripts | 👤 Persona |
 |---|---|---|---|
 | Definir gustos y criterio | Ayuda a escribirlo | — | **Decide** |
+| Escribir los scripts | **Los escribió** | — | Dice qué hacer y lo comprueba |
 | Leer agendas y buscar candidatos | — | Cada jueves | — |
 | Elegir a los cinco de la semana | Cada viernes | — | Revisa la entrada |
 | Escribir los textos | Cada viernes | — | Marca el tono (diario neutro) |

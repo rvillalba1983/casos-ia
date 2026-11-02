@@ -18,5 +18,5 @@ Cómo una conversación para descubrir artistas con conciertos cerca acabó en u
 3. Hilo con los 5 problemas de datos y su solución (YouTube, homónimos, Instagram, tildes, retrasos).
 
 ## Por verificar
-- [ ] Que los scripts se escribieran durante el trabajo con la IA (el post no lo afirma; lo dice solo de la rutina).
+- [x] Los scripts los escribió la IA (confirmado por el autor el 2 nov). Añadido al post.
 - [ ] Revisar el post tras la Nº 4 (6 nov) por si cambian cifras (artistas, entradas, Granada).
