@@ -45,8 +45,9 @@ libro ilustrado con IA · autopublicación · Amazon KDP · impresión bajo dema
 - [x] **Estado en Amazon**: publicado en tapa blanda (B0HD1CZ64C) y Kindle (B0HCDKP4B7). Enlaces en el post.
 - [x] **@elde_lito**: activa, con el enlace de compra (books2read) en el perfil.
 
+### Confirmado por el autor (2 de noviembre de 2026)
+- [x] Interior de **63 páginas** en **papel a color prémium**.
+- [x] Herramienta de IA: **ChatGPT** (ideas, imágenes y PDF).
+
 ### Pendientes de confirmar con el autor
-- [ ] ¿El interior publicado tiene **63 o 64 páginas**? (Un PDF con número impar de páginas suele completarse con una en blanco.)
-- [ ] ¿Se eligió **papel a color prémium**? Es la única opción con la que cuadra el lomo.
-- [ ] Qué herramientas concretas de **generación de imágenes** y de **PDF** se usaron (el post las cita por función, sin nombres).
 - [ ] Permiso para mostrar nombres de archivo y la referencia «page 04».

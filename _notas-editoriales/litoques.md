@@ -74,11 +74,13 @@ Litoques es un disco acústico de guitarra con influencia flamenca, creado por L
 - [x] **Official Artist Channel**: es de YouTube y se pide a través del distribuidor o el sello (https://support.google.com/youtube/answer/7336634). Post corregido.
 - [x] **Enlaces al disco**: Spotify álbum y perfil, añadidos al post.
 
+### Confirmado por el autor (2 de noviembre de 2026)
+- [x] Distribuidor final: **EmuBands**.
+- [x] Official Artist Channel de YouTube: **no se ha conseguido**.
+- [x] Herramienta de audio: **solo Audacity** (versión desconocida). Kling y DaVinci Resolve quedan como plan de vídeo, no como herramientas usadas.
+
 ### Pendientes de confirmar con el autor
-- [ ] ¿Con qué distribuidor salió finalmente el disco: EmuBands u otro?
-- [ ] ¿Se consiguió el Official Artist Channel de YouTube o sigue en trámite?
-- [ ] Versiones reales de **DaVinci Resolve (21)** y **Audacity (3.7.8)**.
 - [ ] Qué equipo se usó en qué etapa (RC-500, RØDE M3, Maono, PS22 Lite).
 - [ ] Lista de **temas finalizados** y título exacto de cada uno (¿«17 vivir tranquilo» está en el disco?).
-- [ ] Cuántos **vídeos** se completaron a partir de las ≈30 imágenes del libro de poemas.
+- [ ] Si se llegó a hacer algún **vídeo**.
 - [ ] Si el proyecto sigue siendo **no comercial**.

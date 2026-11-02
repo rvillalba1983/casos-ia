@@ -20,6 +20,8 @@ lang: es
 
 Hay ideas que caben en una frase y proyectos que no caben en ninguna. **DeLito**, también llamado **El Delito**, es de los segundos. Empezó como un libro ilustrado, pero quien intenta describirlo acaba enumerando: es un poemario visual, un diario emocional, un confesionario, un juego visual, un mapa de amistades, una carta de amor y un objeto artístico en el que el lector también participa. Lo protagonizan **Lito y Pachi**, dos personajes con un universo propio de ilustraciones, globos de diálogo, hilos rojos y personajes escondidos.
 
+Toda la ayuda de IA de este caso vino de **una sola herramienta, ChatGPT**: para ordenar ideas, generar las imágenes y preparar el PDF.
+
 Tener la idea era la parte fácil. Convertirla en un libro que se pudiera **imprimir, vender en Amazon y promocionar en Instagram** exigía ilustrar, maquetar, entender la preimpresión, diseñar una cubierta y preparar una campaña. Este artículo cuenta cómo se usó la inteligencia artificial en cada uno de esos frentes y, sobre todo, qué tuvo que seguir haciendo una persona.
 
 <div class="resultado" markdown="0">
@@ -164,7 +166,7 @@ Aquí la IA actúa como **intermediaria entre un objetivo y el conocimiento téc
 </div>
 
 <div class="bloque bloque-solucion" markdown="1">
-Una lista de medidas **coherente entre sí**: el ancho de la cubierta es exactamente la suma de sangrados, contraportada, lomo y portada. Y el lomo cuadra con la [fórmula de KDP](https://kdp.amazon.com/help/topic/G201953020) para papel a color prémium: 63 páginas × 0,002347 pulgadas ≈ 0,148 pulgadas. La IA puede ayudar a interpretar requisitos, detectar inconsistencias, entender errores de validación y preparar o revisar scripts de procesamiento de PDF.
+Una lista de medidas **coherente entre sí**: el ancho de la cubierta es exactamente la suma de sangrados, contraportada, lomo y portada. Y el lomo cuadra con la [fórmula de KDP](https://kdp.amazon.com/help/topic/G201953020) para el papel elegido, <span class="etiqueta hecho">Hecho</span> color prémium: 63 páginas × 0,002347 pulgadas ≈ 0,148 pulgadas. La IA puede ayudar a interpretar requisitos, detectar inconsistencias, entender errores de validación y preparar o revisar scripts de procesamiento de PDF.
 </div>
 
 <div class="bloque bloque-rigor" markdown="1">

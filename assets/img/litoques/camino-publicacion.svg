@@ -30,7 +30,7 @@
     <rect x="640" y="165" width="220" height="40" rx="8" fill="#fbeee9" stroke="#b5402a"/>
     <text x="655" y="190" font-size="14.5" fill="#b5402a">CD Baby · problema de acceso</text>
     <rect x="640" y="218" width="220" height="40" rx="8" fill="#eaf6ee" stroke="#2f7d4f"/>
-    <text x="655" y="243" font-size="15" fill="#2f7d4f" font-weight="700">EmuBands · alternativa</text>
+    <text x="655" y="243" font-size="15" fill="#2f7d4f" font-weight="700">EmuBands · distribuidor final</text>
     <text x="640" y="284" font-size="12" fill="#6b5a4c">Problema relacionado con Cloudflare</text>
     <path d="M890 205 h30 m-10 -9 l10 9 l-10 9" stroke="#3b2a20" stroke-width="3" fill="none"/>
 

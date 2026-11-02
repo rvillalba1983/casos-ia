@@ -84,15 +84,14 @@
 <path d="M512 661.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
 <rect x="530" y="620" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
 <rect x="530" y="620" width="6" height="96" rx="3" fill="#b7791f"/>
-<text x="550" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">≈30 imágenes de un libro de</text>
+<text x="550" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Plan: ≈30 imágenes de un libro de</text>
 <text x="550" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">poemas, Kling para movimiento y</text>
 <text x="550" y="692" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">DaVinci Resolve para montar.</text>
 <path d="M852 661.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
 <rect x="870" y="620" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
 <rect x="870" y="620" width="6" height="96" rx="3" fill="#2f7d4f"/>
-<text x="890" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Metodología de producción</text>
-<text x="890" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">audiovisual, desarrollada por</text>
-<text x="890" y="692" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">fases.</text>
+<text x="890" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Metodología de vídeo planteada,</text>
+<text x="890" y="670" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">pendiente de llevar a la práctica.</text>
 <text x="170" y="786.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Publicación</text>
 <rect x="190" y="732" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
 <rect x="190" y="732" width="6" height="96" rx="3" fill="#b5402a"/>
@@ -107,7 +106,6 @@
 <path d="M852 773.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
 <rect x="870" y="732" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
 <rect x="870" y="732" width="6" height="96" rx="3" fill="#2f7d4f"/>
-<text x="890" y="760" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Distribución contemplada con</text>
-<text x="890" y="782" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">EmuBands y lanzamiento con UPC</text>
-<text x="890" y="804" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">propio.</text>
+<text x="890" y="760" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Distribución con EmuBands y</text>
+<text x="890" y="782" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">lanzamiento con UPC propio.</text>
 </svg>

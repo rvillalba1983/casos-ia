@@ -3,7 +3,7 @@ layout: post
 title: "Litoques: grabar, diseñar y publicar un disco en casa con la IA como compañera de taller"
 date: 2026-10-26 10:00:00 +0100
 categories: [casos-de-uso]
-tags: [musica, guitarra, chatgpt, audacity, davinci-resolve, kling, emubands, produccion-musical]
+tags: [musica, guitarra, chatgpt, audacity, emubands, produccion-musical]
 description: "Cómo un guitarrista usó ChatGPT y herramientas digitales para resolver los problemas de sonido, imagen, vídeo y distribución de su disco, sin delegar la autoría."
 image: /assets/img/litoques/cabecera.png
 lang: es
@@ -22,7 +22,7 @@ lang: es
   <div><strong>Autor</strong>Lito, guitarrista</div>
   <div><strong>Estilo</strong>Guitarra española y acústica, influencia flamenca</div>
   <div><strong>Asistente</strong>ChatGPT</div>
-  <div><strong>Herramientas</strong>Audacity · DaVinci Resolve · Kling · EmuBands</div>
+  <div><strong>Herramientas</strong>Audacity · EmuBands</div>
 </div>
 
 <div class="resultado" markdown="0">
@@ -161,7 +161,7 @@ Cuando hables con una IA sobre un problema técnico, **dale datos**. «Suena rar
 
 ## Mezclar y preparar las canciones en Audacity
 
-La herramienta principal de edición y procesamiento fue **Audacity**, en una de las etapas documentadas en su versión 3.7.8. Allí se abordaron la ecualización, la compresión, el control de picos, la normalización de sonoridad, la reducción de ruido, la exportación a WAV y la comprobación final.
+Todo el trabajo de audio se hizo con **Audacity**. Allí se abordaron la ecualización, la compresión, el control de picos, la normalización de sonoridad, la reducción de ruido, la exportación a WAV y la comprobación final.
 
 <div class="bloque bloque-problema" markdown="1">
 Audacity tiene decenas de efectos y cada uno, varios parámetros. Sin saber qué hace cada uno ni en qué orden aplicarlos, es fácil acabar con una guitarra aplastada, con artefactos o sin vida.
@@ -280,7 +280,7 @@ Publicar en plataformas de audio no basta. Un proyecto independiente necesita im
 Crear movimiento o variaciones a partir de imágenes y referencias, cuando las funciones y condiciones de uso lo permitan.
 </div>
 <div markdown="1">
-**🎬 DaVinci Resolve Free 21 (edición)**
+**🎬 DaVinci Resolve (edición)**
 Montar, sincronizar con la música, ajustar duraciones, añadir títulos y transiciones, corregir y exportar.
 </div>
 </div>
@@ -293,7 +293,7 @@ Una **estrategia híbrida**: IA donde aporta creatividad (movimiento, variacione
 </div>
 
 <div class="bloque bloque-rigor" markdown="1">
-Este capítulo describe un **flujo planificado y desarrollado por fases**. No todas las imágenes del libro se han convertido necesariamente en vídeos terminados, ni todas las etapas se automatizaron.
+Este capítulo describe un **flujo planteado**, no uno ejecutado: en la práctica, el disco se trabajó solo con Audacity, y Kling y DaVinci Resolve quedaron como propuesta para una fase de vídeo posterior. Se cuenta porque el método de pensar el vídeo con la IA sirve igual a quien quiera hacerlo.
 </div>
 
 <span class="capitulo-num">Capítulo 8</span>
@@ -315,8 +315,8 @@ El primer intento de distribución topó con un obstáculo práctico: **dificult
 Aquí la IA no generó contenido. Hizo algo igual de útil: **ayudar a investigar alternativas, comparar distribuidores y entender el procedimiento**. Ayudó a explicar qué es cada pieza (distribuidor, plataforma de escucha, perfil de artista, canal oficial), a ordenar metadatos y a preparar listas de comprobación.
 
 - <span class="etiqueta hecho">Hecho</span> El lanzamiento tiene asociado el **UPC 5063930086686**.
-- <span class="etiqueta propuesta">Contemplado</span> Distribución mediante **EmuBands** como alternativa.
-- <span class="etiqueta hecho">Hecho</span> Se trabajó en la presencia del artista: la gestión de un **perfil generado automáticamente** y la solicitud de un **Official Artist Channel**, el canal oficial de artista de YouTube, que [se pide a través del distribuidor o del sello](https://support.google.com/youtube/answer/7336634).
+- <span class="etiqueta hecho">Hecho</span> El disco se distribuyó con **EmuBands**.
+- <span class="etiqueta hecho">Hecho</span> Se trabajó en la presencia del artista: la gestión de un **perfil generado automáticamente** y la solicitud de un **Official Artist Channel**, el canal oficial de artista de YouTube, que [se pide a través del distribuidor o del sello](https://support.google.com/youtube/answer/7336634). Ese canal, de momento, no se ha conseguido.
 </div>
 
 <div class="bloque bloque-solucion" markdown="1">
