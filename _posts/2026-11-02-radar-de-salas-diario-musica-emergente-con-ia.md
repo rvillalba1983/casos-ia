@@ -167,7 +167,11 @@ Al principio, buena parte del trabajo pasaba por el ordenador del autor y por un
 <div class="reparto" markdown="1">
 <div markdown="1">
 **⚙️ Los scripts (GitHub)**
-**Refrescar** (miércoles): pone los 2 últimos vídeos de cada artista, añade fechas nuevas y repone fotos caídas. **Recolectar** (jueves por la tarde): lee las agendas de Granada, Sevilla y otras 17 provincias y deja una lista de candidatos. **Revisar** (tras cada cambio): comprueba datos, repetidos, fotos y vídeos, y avisa por correo si algo falla.
+*Refrescar*, los miércoles: pone los 2 últimos vídeos de cada artista, añade fechas nuevas y repone fotos caídas.
+
+*Recolectar*, los jueves por la tarde: lee las agendas de Granada, Sevilla y otras 17 provincias y deja una lista de candidatos.
+
+*Revisar*, tras cada cambio: comprueba datos, repetidos, fotos y vídeos, y avisa por correo si algo falla.
 </div>
 <div markdown="1">
 **🤖 La IA (viernes, 8:47)**

@@ -71,8 +71,8 @@
 <path d="M852 527.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
 <rect x="870" y="486" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
 <rect x="870" y="486" width="6" height="96" rx="3" fill="#2f7d4f"/>
-<text x="890" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Datos verificados sin pasar por tu</text>
-<text x="890" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">ordenador.</text>
+<text x="890" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Datos verificados sin pasar por un</text>
+<text x="890" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">ordenador personal.</text>
 <text x="170" y="652.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Rutina</text>
 <rect x="190" y="598" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
 <rect x="190" y="598" width="6" height="96" rx="3" fill="#b5402a"/>
