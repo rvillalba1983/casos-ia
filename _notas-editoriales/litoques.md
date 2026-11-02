@@ -79,8 +79,10 @@ Litoques es un disco acústico de guitarra con influencia flamenca, creado por L
 - [x] Official Artist Channel de YouTube: **no se ha conseguido**.
 - [x] Herramienta de audio: **solo Audacity** (versión desconocida). Kling y DaVinci Resolve quedan como plan de vídeo, no como herramientas usadas.
 
-### Pendientes de confirmar con el autor
-- [ ] Qué equipo se usó en qué etapa (RC-500, RØDE M3, Maono, PS22 Lite).
-- [ ] Lista de **temas finalizados** y título exacto de cada uno (¿«17 vivir tranquilo» está en el disco?).
-- [ ] Si se llegó a hacer algún **vídeo**.
-- [ ] Si el proyecto sigue siendo **no comercial**.
+- [x] Equipo: siempre **el mismo ordenador** personal.
+- [x] Lista de temas: **18**, sacada de Spotify (Faroles, Cuento, De patas, Caminando, Galicia, Isleta, Marinera, Flora, El tiempo pasa rápido, Me ofrezco, Otoño, Misterio, Viaje, Pelotita, Púa, Intensidad, Vivir tranquilo, Sientes).
+- [x] Vídeos: **videoclip de «Flora»** y **versiones en directo** en Instagram.
+- [x] Sigue siendo **no comercial**.
+
+### Pendientes
+- [ ] Enlace al Instagram del disco y al videoclip de «Flora».

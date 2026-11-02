@@ -23,6 +23,7 @@ lang: es
   <div><strong>Estilo</strong>Guitarra española y acústica, influencia flamenca</div>
   <div><strong>Asistente</strong>ChatGPT</div>
   <div><strong>Herramientas</strong>Audacity · EmuBands</div>
+  <div><strong>Carácter</strong>Proyecto personal, no comercial</div>
 </div>
 
 <div class="resultado" markdown="0">
@@ -91,7 +92,7 @@ Un **método**: convertir una necesidad subjetiva en experimentos ordenados. Est
 
 ## Grabar una guitarra en casa
 
-El equipo con el que se trabajó o que se contempló durante el proyecto incluye un **Boss RC-500** como parte de la configuración de guitarra, micrófonos externos como un **RØDE M3** y un micrófono **Maono** en distintas configuraciones, y una interfaz **Maono PS22 Lite**. Conviene aclararlo: no fue una única cadena de grabación fija. La configuración cambió según la etapa y la necesidad.
+El equipo con el que se trabajó o que se contempló durante el proyecto incluye un **Boss RC-500** como parte de la configuración de guitarra, micrófonos externos como un **RØDE M3** y un micrófono **Maono** en distintas configuraciones, y una interfaz **Maono PS22 Lite**. Conviene aclararlo: no fue una única cadena de grabación fija. La configuración cambió según la etapa y la necesidad. Lo que no cambió fue el ordenador: <span class="etiqueta hecho">Hecho</span> todo el proceso, de la grabación a la publicación, se hizo en **el mismo ordenador personal**.
 
 <div class="bloque bloque-problema" markdown="1">
 ¿Dónde se pone el micrófono para que la guitarra suene natural? Demasiado cerca, la guitarra retumba. Demasiado lejos, entra la habitación y el ruido. Y cada guitarra, cada micro y cada cuarto se comportan distinto.
@@ -214,9 +215,11 @@ Litoques no es una grabación, sino un conjunto de piezas con atmósferas muy di
 | «Flora» | Carácter íntimo, con referencias al taranto |
 | «Me ofrezco» | Sensibilidad de cantautor |
 | «Misterio» | Un resultado que se consideraba especialmente conseguido |
-| «Otoño», «Púa», «De patas», «Galicia» | Entre los temas que figuraban como finalizados |
+| «Otoño», «Púa», «De patas», «Galicia» y el resto | Completan el disco, cada uno con su propio carácter |
 
 </div>
+
+<span class="etiqueta hecho">Hecho</span> El disco publicado tiene **18 temas**: 1. [Faroles](https://open.spotify.com/track/4pjU1vHZK7PsX53WdiDrfu) · 2. [Cuento](https://open.spotify.com/track/3czGs62YMWUkEFlgxykit5) · 3. [De patas](https://open.spotify.com/track/3M6I7LRcp3oSCYPkSgvaLa) · 4. [Caminando](https://open.spotify.com/track/4YkWw5qL7j1L0xS0OIwKS2) · 5. [Galicia](https://open.spotify.com/track/3qdIj4jWAzS2tZghe8cWbk) · 6. [Isleta](https://open.spotify.com/track/3sDbDjvR0lFYssZovRKHca) · 7. [Marinera](https://open.spotify.com/track/5yg8zK03TCEjAiRULKYC6r) · 8. [Flora](https://open.spotify.com/track/26GyJeKGFCn5n43OTj9wxJ) · 9. [El tiempo pasa rápido](https://open.spotify.com/track/6e2gSaodQK03GouZaTHHRC) · 10. [Me ofrezco](https://open.spotify.com/track/5RufC1g7AL7qfdQJEvRfgg) · 11. [Otoño](https://open.spotify.com/track/1kN5r8cYYqsp8DquAdRnbI) · 12. [Misterio](https://open.spotify.com/track/56qcA1uOHaRPiv1Wi2fUo8) · 13. [Viaje](https://open.spotify.com/track/7mUzhgjqe2ykL1RnXFYIeq) · 14. [Pelotita](https://open.spotify.com/track/0I50bJXyNU0NrB8IT2uHW9) · 15. [Púa](https://open.spotify.com/track/6tC92K4sBaK66tob4XtdEJ) · 16. [Intensidad](https://open.spotify.com/track/242p9xmmzQjuLWqSZm4XXV) · 17. [Vivir tranquilo](https://open.spotify.com/track/2QwXe81yXumyPWozsMacLS) · 18. [Sientes](https://open.spotify.com/track/51no3w3ubF7eOlkRqJjXrm).
 
 <div class="bloque bloque-problema" markdown="1">
 ¿Cómo consigues que un disco suene **a disco** sin que todas las canciones suenen **iguales**? Y, sobre todo, ¿cómo mantienes los mismos criterios cuando trabajas en sesiones separadas por días o semanas?
@@ -293,7 +296,7 @@ Una **estrategia híbrida**: IA donde aporta creatividad (movimiento, variacione
 </div>
 
 <div class="bloque bloque-rigor" markdown="1">
-Este capítulo describe un **flujo planteado**, no uno ejecutado: en la práctica, el disco se trabajó solo con Audacity, y Kling y DaVinci Resolve quedaron como propuesta para una fase de vídeo posterior. Se cuenta porque el método de pensar el vídeo con la IA sirve igual a quien quiera hacerlo.
+El flujo con Kling y DaVinci Resolve fue un **planteamiento**, no lo que se ejecutó. <span class="etiqueta hecho">Hecho</span> Lo que sí se publicó en Instagram es un **videoclip de «Flora»** y varias **versiones en directo** de temas del disco. Se cuenta el método porque pensar el vídeo con la IA sirve igual a quien quiera hacerlo.
 </div>
 
 <span class="capitulo-num">Capítulo 8</span>
@@ -331,7 +334,7 @@ La IA no garantiza la aprobación de ninguna solicitud ni sustituye las validaci
 
 ## Organizar el trabajo y documentar decisiones
 
-Un disco genera una montaña de archivos: tomas originales, mezclas, pruebas, versiones corregidas y exportaciones finales. En el historial del proyecto aparecen nombres como **«Faroles2(6)»** o **«17 vivir tranquilo(3).wav»**, que distinguen versiones sucesivas.
+Un disco genera una montaña de archivos: tomas originales, mezclas, pruebas, versiones corregidas y exportaciones finales. En el historial del proyecto aparecen nombres como **«Faroles2(6)»** o **«17 vivir tranquilo(3).wav»**, que distinguen versiones sucesivas. El número de este último coincide con su lugar en el disco final: «Vivir tranquilo» es el tema 17.
 
 <div class="bloque bloque-problema" markdown="1">
 Cuando se mezclan archivos antiguos y nuevos, o se pierde la relación entre una recomendación técnica y **el archivo exacto al que se refería**, los errores se multiplican. Y las conversaciones con una IA no son una base de datos fiable.

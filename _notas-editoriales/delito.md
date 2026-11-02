@@ -50,4 +50,4 @@ libro ilustrado con IA · autopublicación · Amazon KDP · impresión bajo dema
 - [x] Herramienta de IA: **ChatGPT** (ideas, imágenes y PDF).
 
 ### Pendientes de confirmar con el autor
-- [ ] Permiso para mostrar nombres de archivo y la referencia «page 04».
+- [x] Se pueden mostrar nombres de archivo y la referencia «page 04».
