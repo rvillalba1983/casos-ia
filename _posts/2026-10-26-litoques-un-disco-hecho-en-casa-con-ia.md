@@ -303,7 +303,7 @@ El flujo con Kling y DaVinci Resolve fue un **planteamiento**, no lo que se ejec
 <div class="resultado" markdown="0">
   <span class="resultado-titulo">Mira el videoclip de «Flora»</span>
   <p>Tema 8 del disco, publicado en Instagram.</p>
-  <iframe src="https://www.instagram.com/p/DdSdIc5CbC9/embed/" height="640" loading="lazy" scrolling="no" allowtransparency="true" title="Videoclip de Flora en Instagram" style="max-width:420px;display:block;margin:1rem auto 0;"></iframe>
+  <iframe src="https://www.instagram.com/p/DdSdIc5CbC9/embed/" height="470" loading="lazy" scrolling="no" allowtransparency="true" title="Videoclip de Flora en Instagram" style="max-width:420px;height:470px;display:block;margin:1rem auto 0;"></iframe>
   <div class="botones" style="margin-top:1rem">
     <a class="boton" href="https://www.instagram.com/p/DdSdIc5CbC9/" target="_blank" rel="noopener">▶ Ver en Instagram</a>
     <a class="boton secundario" href="https://www.instagram.com/rau_lito_83/" target="_blank" rel="noopener">Más vídeos del disco</a>
