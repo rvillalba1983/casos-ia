@@ -3,7 +3,6 @@ layout: default
 ---
 <link rel="stylesheet" href="{{ '/assets/css/portada.css' | relative_url }}">
 
-{%- assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," -%}
 
 <section class="portada-hero">
   <p class="portada-antetitulo">Casos reales · IA en la vida cotidiana</p>
@@ -27,7 +26,6 @@ layout: default
 
   <div class="portada-tarjetas">
     {%- for post in site.posts -%}
-      {%- assign m = post.date | date: "%-m" | minus: 1 -%}
       {%- assign palabras = post.content | strip_html | number_of_words -%}
       {%- assign minutos = palabras | divided_by: 200 | plus: 1 -%}
       <article class="tarjeta">
@@ -38,7 +36,7 @@ layout: default
         </a>
         <div class="tarjeta-cuerpo">
           <p class="tarjeta-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d" }} de {{ meses[m] }} de {{ post.date | date: "%Y" }}</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{%- include fecha-es.html fecha=post.date -%}</time>
             · {{ minutos }} min de lectura
           </p>
           <h3 class="tarjeta-titulo"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
