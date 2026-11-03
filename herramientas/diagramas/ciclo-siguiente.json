@@ -1,0 +1,77 @@
+{
+ "titulo": "Cómo se entera la web de que hay capítulo nuevo",
+ "fondo": "#f7efe2",
+ "tinta": "#3b2a20",
+ "ruta": "assets/img/siguiente/busqueda.svg",
+ "centro": [
+  "Solo sube",
+  "el último capítulo:",
+  "lo visto no se toca"
+ ],
+ "leyenda": [
+  [
+   "Automático en Supabase",
+   "#2b5f8f"
+  ],
+  [
+   "Lee las webs",
+   "#b7791f"
+  ],
+  [
+   "Resultado",
+   "#2f7d4f"
+  ],
+  [
+   "Persona",
+   "#b5402a"
+  ]
+ ],
+ "H": 880,
+ "cy": 445,
+ "R": 315,
+ "bw": 232,
+ "pasos": [
+  [
+   "Despertar",
+   "Cada hora (minuto 7) se lanza la función",
+   "#2b5f8f",
+   "PG_CRON"
+  ],
+  [
+   "Elegir",
+   "Hasta 4 usuarios cuya última búsqueda tenga más de 3 días",
+   "#2b5f8f",
+   "FUNCIÓN"
+  ],
+  [
+   "Leer",
+   "Capítulo más alto, portada y sinopsis",
+   "#b7791f",
+   "FUNCIÓN"
+  ],
+  [
+   "Comprobar",
+   "Que la web abre el siguiente capítulo por ver",
+   "#b7791f",
+   "FUNCIÓN"
+  ],
+  [
+   "Cambiar",
+   "Si falla, prueba alternativas y cambia",
+   "#b7791f",
+   "FUNCIÓN"
+  ],
+  [
+   "Resumir",
+   "Nuevos, web cambiada, sin enlace o sin leer",
+   "#2f7d4f",
+   "FUNCIÓN"
+  ],
+  [
+   "Ver",
+   "Abrir la web, ver el aviso y marcar lo visto",
+   "#b5402a",
+   "PERSONA"
+  ]
+ ]
+}

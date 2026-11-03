@@ -1,0 +1,48 @@
+{
+ "titulo": "Siguiente Capítulo: de una ayuda dentro del chat a una web propia",
+ "fondo": "#f7efe2",
+ "tinta": "#3b2a20",
+ "ruta": "assets/img/siguiente/mapa-del-caso.svg",
+ "filas": [
+  [
+   "Seguir series",
+   [
+    "Recordar por qué capítulo vas en 17 series repartidas en varias webs.",
+    "Una lista con portada, resumen y el último capítulo visto de cada una.",
+    "Todas las series en una cuadrícula, con lo visto guardado."
+   ]
+  ],
+  [
+   "Dónde vive",
+   [
+    "La primera versión solo funcionaba dentro de Claude.",
+    "Pasar la web a GitHub Pages y los datos a Supabase.",
+    "Funciona desde cualquier dispositivo, sin depender de la IA."
+   ]
+  ],
+  [
+   "Novedades",
+   [
+    "Mirar a mano cada web para saber si hay capítulo nuevo.",
+    "Una función en el servidor que lee la página de cada serie.",
+    "Búsqueda automática cada 3 días, aunque no abras la web."
+   ]
+  ],
+  [
+   "Webs caídas",
+   [
+    "Las webs cambian de dominio o dejan de funcionar.",
+    "Webs alternativas por serie y comprobación del siguiente capítulo.",
+    "Cambio automático a la alternativa que funciona."
+   ]
+  ],
+  [
+   "Acceso",
+   [
+    "Abrirla a otras personas sin mezclar datos ni gestionar contraseñas.",
+    "Login con Google y seguridad por filas en la base de datos.",
+    "Cada persona ve solo lo suyo, con un máximo de 20."
+   ]
+  ]
+ ]
+}

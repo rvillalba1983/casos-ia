@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
+<rect width="1200" height="880" fill="#f7efe2"/>
+<text x="600.0" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Cómo se entera la web de que hay capítulo nuevo</text>
+<circle cx="600" cy="445" r="315" fill="none" stroke="#3b2a20" stroke-opacity="0.18" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(736.7 161.2) rotate(25.7)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(907.1 374.9) rotate(77.1)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(846.3 641.4) rotate(128.6)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(600.0 760.0) rotate(180.0)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(353.7 641.4) rotate(231.4)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(292.9 374.9) rotate(282.9)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(463.3 161.2) rotate(334.3)" fill="#3b2a20" opacity="0.5"/>
+<rect x="484.0" y="78.0" width="232" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="508.0" cy="102.0" r="15" fill="#2b5f8f"/>
+<text x="508.0" y="108.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="532.0" y="108.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Despertar</text>
+<text x="500.0" y="138.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Cada hora (minuto 7) se</text>
+<text x="500.0" y="157.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">lanza la función</text>
+<text x="704.0" y="172.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">PG_CRON</text>
+<rect x="730.3" y="196.6" width="232" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="754.3" cy="220.6" r="15" fill="#2b5f8f"/>
+<text x="754.3" y="226.6" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">2</text>
+<text x="778.3" y="226.6" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Elegir</text>
+<text x="746.3" y="256.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Hasta 4 usuarios cuya última</text>
+<text x="746.3" y="275.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">búsqueda tenga más de 3 días</text>
+<text x="950.3" y="290.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">FUNCIÓN</text>
+<rect x="791.1" y="463.1" width="232" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="815.1" cy="487.1" r="15" fill="#b7791f"/>
+<text x="815.1" y="493.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">3</text>
+<text x="839.1" y="493.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Leer</text>
+<text x="807.1" y="523.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Capítulo más alto, portada y</text>
+<text x="807.1" y="542.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">sinopsis</text>
+<text x="1011.1" y="557.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">FUNCIÓN</text>
+<rect x="620.7" y="676.8" width="232" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="644.7" cy="700.8" r="15" fill="#b7791f"/>
+<text x="644.7" y="706.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="668.7" y="706.8" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Comprobar</text>
+<text x="636.7" y="736.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Que la web abre el siguiente</text>
+<text x="636.7" y="755.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">capítulo por ver</text>
+<text x="840.7" y="770.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">FUNCIÓN</text>
+<rect x="347.3" y="676.8" width="232" height="104" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<circle cx="371.3" cy="700.8" r="15" fill="#b7791f"/>
+<text x="371.3" y="706.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="395.3" y="706.8" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Cambiar</text>
+<text x="363.3" y="736.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Si falla, prueba</text>
+<text x="363.3" y="755.8" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">alternativas y cambia</text>
+<text x="567.3" y="770.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b7791f">FUNCIÓN</text>
+<rect x="176.9" y="463.1" width="232" height="104" rx="14" fill="#fff" stroke="#2f7d4f" stroke-width="2.5"/>
+<circle cx="200.9" cy="487.1" r="15" fill="#2f7d4f"/>
+<text x="200.9" y="493.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">6</text>
+<text x="224.9" y="493.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Resumir</text>
+<text x="192.9" y="523.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Nuevos, web cambiada, sin</text>
+<text x="192.9" y="542.1" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">enlace o sin leer</text>
+<text x="396.9" y="557.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2f7d4f">FUNCIÓN</text>
+<rect x="237.7" y="196.6" width="232" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="261.7" cy="220.6" r="15" fill="#b5402a"/>
+<text x="261.7" y="226.6" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">7</text>
+<text x="285.7" y="226.6" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Ver</text>
+<text x="253.7" y="256.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Abrir la web, ver el aviso y</text>
+<text x="253.7" y="275.6" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">marcar lo visto</text>
+<text x="457.7" y="290.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">PERSONA</text>
+<text x="600" y="435" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#3b2a20">Solo sube</text>
+<text x="600" y="465" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">el último capítulo:</text>
+<text x="600" y="495" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">lo visto no se toca</text>
+<rect x="60" y="838" width="16" height="16" rx="4" fill="#2b5f8f"/>
+<text x="84" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Automático en Supabase</text>
+<rect x="280" y="838" width="16" height="16" rx="4" fill="#b7791f"/>
+<text x="304" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Lee las webs</text>
+<rect x="500" y="838" width="16" height="16" rx="4" fill="#2f7d4f"/>
+<text x="524" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Resultado</text>
+<rect x="720" y="838" width="16" height="16" rx="4" fill="#b5402a"/>
+<text x="744" y="851" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Persona</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+<rect width="1200" height="600" fill="#f7efe2"/>
+<text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Tres piezas gratuitas, cada una con su papel</text>
+<rect x="40" y="110" width="330" height="330" rx="16" fill="#fff" stroke="#3b2a20" stroke-width="2.5"/>
+<rect x="40" y="110" width="330" height="54" rx="16" fill="#3b2a20"/><rect x="40" y="148" width="330" height="16" fill="#3b2a20"/>
+<text x="60" y="145" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">La web</text>
+<text x="60" y="190" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b5a4c">GitHub Pages · lo que ves</text>
+<text x="60" y="222" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Cuadrícula de series</text>
+<text x="60" y="248" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Marcar lo visto</text>
+<text x="60" y="274" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• «Dónde verla» y alternativas</text>
+<text x="60" y="300" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Añadir serie con un enlace</text>
+<text x="60" y="326" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Avisos de capítulos nuevos</text>
+<rect x="435" y="110" width="330" height="330" rx="16" fill="#fff" stroke="#2f7d4f" stroke-width="2.5"/>
+<rect x="435" y="110" width="330" height="54" rx="16" fill="#2f7d4f"/><rect x="435" y="148" width="330" height="16" fill="#2f7d4f"/>
+<text x="455" y="145" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Los datos y el motor</text>
+<text x="455" y="190" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b5a4c">Supabase · plan gratuito</text>
+<text x="455" y="222" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Series y ajustes por usuario</text>
+<text x="455" y="248" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Seguridad por filas</text>
+<text x="455" y="274" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Temporizador cada hora</text>
+<text x="455" y="300" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Función «buscar»</text>
+<text x="455" y="326" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Límite de 20 usuarios</text>
+<rect x="830" y="110" width="330" height="330" rx="16" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<rect x="830" y="110" width="330" height="54" rx="16" fill="#b7791f"/><rect x="830" y="148" width="330" height="16" fill="#b7791f"/>
+<text x="850" y="145" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Las webs de vídeo</text>
+<text x="850" y="190" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b5a4c">Donde se ven los capítulos</text>
+<text x="850" y="222" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Se leen desde el servidor</text>
+<text x="850" y="248" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• No se pueden incrustar</text>
+<text x="850" y="274" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Cambian de dominio</text>
+<text x="850" y="300" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Cada serie con alternativas</text>
+<text x="850" y="326" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#3b2a20">• Se abren en su propia web</text>
+<path d="M372 250 h58 m-10 -8 l10 8 l-10 8" stroke="#3b2a20" stroke-width="3" fill="none"/><path d="M433 300 h-58 m10 -8 l-10 8 l10 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+<text x="402" y="232" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5a4c">guarda</text><text x="402" y="326" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5a4c">tiempo real</text>
+<path d="M767 275 h58 m-10 -8 l10 8 l-10 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+<text x="797" y="258" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5a4c">lee</text>
+<rect x="435" y="480" width="330" height="70" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="600" y="510" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b5f8f">Entrar con Google</text>
+<text x="600" y="533" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">sin contraseñas propias que guardar</text>
+<path d="M600 478 v-34" stroke="#2b5f8f" stroke-width="2.5"/>
+<text x="995" y="510" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b5a4c">El usuario pulsa el enlace</text><text x="995" y="530" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b5a4c">y lo ve en la web original</text>
+<path d="M995 478 v-34" stroke="#b7791f" stroke-width="2" stroke-dasharray="5 4"/>
+</svg>

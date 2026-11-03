@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 718" width="1220" height="718">
+<rect width="1220" height="718" fill="#f7efe2"/>
+<text x="610.0" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#3b2a20">Siguiente Capítulo: de una ayuda dentro del chat a una web propia</text>
+<rect x="190" y="92" width="320" height="36" rx="18" fill="#b5402a"/>
+<text x="350.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">① PROBLEMA</text>
+<rect x="530" y="92" width="320" height="36" rx="18" fill="#b7791f"/>
+<text x="690.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">② PROCESO</text>
+<rect x="870" y="92" width="320" height="36" rx="18" fill="#2f7d4f"/>
+<text x="1030.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">③ SOLUCIÓN</text>
+<text x="170" y="204.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Seguir series</text>
+<rect x="190" y="150" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="150" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Recordar por qué capítulo vas en</text>
+<text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">17 series repartidas en varias</text>
+<text x="210" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">webs.</text>
+<path d="M512 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="150" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="150" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una lista con portada, resumen y</text>
+<text x="550" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">el último capítulo visto de cada</text>
+<text x="550" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">una.</text>
+<path d="M852 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="150" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="150" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Todas las series en una</text>
+<text x="890" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">cuadrícula, con lo visto guardado.</text>
+<text x="170" y="316.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Dónde vive</text>
+<rect x="190" y="262" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="262" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">La primera versión solo funcionaba</text>
+<text x="210" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">dentro de Claude.</text>
+<path d="M512 303.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="262" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="262" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Pasar la web a GitHub Pages y los</text>
+<text x="550" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">datos a Supabase.</text>
+<path d="M852 303.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="262" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="262" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Funciona desde cualquier</text>
+<text x="890" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">dispositivo, sin depender de la</text>
+<text x="890" y="334" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">IA.</text>
+<text x="170" y="417.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Novedades</text>
+<rect x="190" y="374" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="374" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Mirar a mano cada web para saber</text>
+<text x="210" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">si hay capítulo nuevo.</text>
+<path d="M512 404.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="374" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="374" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una función en el servidor que lee</text>
+<text x="550" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">la página de cada serie.</text>
+<path d="M852 404.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="374" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="374" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Búsqueda automática cada 3 días,</text>
+<text x="890" y="424" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">aunque no abras la web.</text>
+<text x="170" y="518.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Webs caídas</text>
+<rect x="190" y="464" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="464" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Las webs cambian de dominio o</text>
+<text x="210" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">dejan de funcionar.</text>
+<path d="M512 505.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="464" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="464" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Webs alternativas por serie y</text>
+<text x="550" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">comprobación del siguiente</text>
+<text x="550" y="536" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">capítulo.</text>
+<path d="M852 505.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="464" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="464" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Cambio automático a la alternativa</text>
+<text x="890" y="514" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">que funciona.</text>
+<text x="170" y="630.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Acceso</text>
+<rect x="190" y="576" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="576" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Abrirla a otras personas sin</text>
+<text x="210" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">mezclar datos ni gestionar</text>
+<text x="210" y="648" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">contraseñas.</text>
+<path d="M512 617.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="576" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="576" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Login con Google y seguridad por</text>
+<text x="550" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">filas en la base de datos.</text>
+<path d="M852 617.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="576" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="576" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="604" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Cada persona ve solo lo suyo, con</text>
+<text x="890" y="626" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">un máximo de 20.</text>
+</svg>

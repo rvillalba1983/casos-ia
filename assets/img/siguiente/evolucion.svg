@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+<rect width="1200" height="420" fill="#f7efe2"/>
+<text x="600" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Seis pasos: qué se probó y por qué cambió</text>
+<line x1="120" y1="130" x2="1080" y2="130" stroke="#3b2a20" stroke-width="3"/>
+<circle cx="120" cy="130" r="20" fill="#b5402a"/><text x="120" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">1</text>
+<line x1="120" y1="150" x2="120" y2="172" stroke="#b5402a" stroke-width="2"/>
+<rect x="30" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#b5402a" stroke-width="2"/>
+<text x="44" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#b5402a">Artefacto</text>
+<text x="44" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Dentro de Claude,</text>
+<text x="44" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">con su base de</text>
+<text x="44" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">datos y su</text>
+<text x="44" y="301" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">navegador. Solo</text>
+<text x="44" y="322" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">funcionaba allí.</text>
+<circle cx="312" cy="130" r="20" fill="#b7791f"/><text x="312" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">2</text>
+<line x1="312" y1="150" x2="312" y2="172" stroke="#b7791f" stroke-width="2"/>
+<rect x="222" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#b7791f" stroke-width="2"/>
+<text x="236" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#b7791f">Diseño</text>
+<text x="236" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Estilo Netflix:</text>
+<text x="236" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">fondo oscuro y</text>
+<text x="236" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">carteles. Las filas</text>
+<text x="236" y="301" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">pasan a cuadrícula.</text>
+<circle cx="504" cy="130" r="20" fill="#2f7d4f"/><text x="504" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">3</text>
+<line x1="504" y1="150" x2="504" y2="172" stroke="#2f7d4f" stroke-width="2"/>
+<rect x="414" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#2f7d4f" stroke-width="2"/>
+<text x="428" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2f7d4f">Migración</text>
+<text x="428" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">GitHub Pages +</text>
+<text x="428" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Supabase: cualquier</text>
+<text x="428" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">dispositivo,</text>
+<text x="428" y="301" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">búsqueda en</text>
+<text x="428" y="322" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">servidor.</text>
+<circle cx="696" cy="130" r="20" fill="#2b5f8f"/><text x="696" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">4</text>
+<line x1="696" y1="150" x2="696" y2="172" stroke="#2b5f8f" stroke-width="2"/>
+<rect x="606" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<text x="620" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2b5f8f">Automático</text>
+<text x="620" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Cada 2 días y luego</text>
+<text x="620" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">cada 3, aunque no</text>
+<text x="620" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">abras la web.</text>
+<circle cx="888" cy="130" r="20" fill="#2b5f8f"/><text x="888" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">5</text>
+<line x1="888" y1="150" x2="888" y2="172" stroke="#2b5f8f" stroke-width="2"/>
+<rect x="798" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<text x="812" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2b5f8f">Alternativas</text>
+<text x="812" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Otra web por serie</text>
+<text x="812" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">si la principal</text>
+<text x="812" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">falla.</text>
+<circle cx="1080" cy="130" r="20" fill="#2f7d4f"/><text x="1080" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">6</text>
+<line x1="1080" y1="150" x2="1080" y2="172" stroke="#2f7d4f" stroke-width="2"/>
+<rect x="990" y="172" width="180" height="200" rx="12" fill="#fff" stroke="#2f7d4f" stroke-width="2"/>
+<text x="1004" y="206" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2f7d4f">Login</text>
+<text x="1004" y="238" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">Solo con Google,</text>
+<text x="1004" y="259" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">máximo 20 personas.</text>
+</svg>
