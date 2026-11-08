@@ -1,7 +1,7 @@
 # Notas editoriales · Siguiente Capítulo
 
-Post: `_posts/2026-11-10-siguiente-capitulo-web-para-seguir-series-con-ia.md`
-Publicación programada: 10 nov 2026, 13:00 (hora peninsular). El post tiene fecha futura y GitHub Pages no lo muestra hasta una reconstrucción posterior a esa hora.
+Post: `_posts/2026-11-08-siguiente-capitulo-web-para-seguir-series-con-ia.md`
+Publicado el 8 nov 2026 (adelantado a petición del autor; estaba programado para el 10).
 Fuente: resumen del proyecto que pasó el autor (3 nov) y la web publicada.
 
 ## Decisiones de redacción

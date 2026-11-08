@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Siguiente Capítulo: una web para seguir tus series que avisa sola de los capítulos nuevos"
-date: 2026-11-10 13:00:00 +0100
+date: 2026-11-08 15:00:00 +0100
 categories: [casos-de-uso]
 tags: [series, anime, github-pages, supabase, automatizacion, claude]
 description: "Cómo una lista de series dentro del chat acabó siendo una web propia, gratuita y con login, que busca capítulos nuevos cada tres días aunque no la abras."
