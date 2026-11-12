@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 652" width="1220" height="652">
+<rect width="1220" height="652" fill="#f7efe2"/>
+<text x="610.0" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#3b2a20">SocialHub: de las promociones a mano a una fábrica de contenido</text>
+<rect x="190" y="92" width="320" height="36" rx="18" fill="#b5402a"/>
+<text x="350.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">① PROBLEMA</text>
+<rect x="530" y="92" width="320" height="36" rx="18" fill="#b7791f"/>
+<text x="690.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">② PROCESO</text>
+<rect x="870" y="92" width="320" height="36" rx="18" fill="#2f7d4f"/>
+<text x="1030.0" y="117" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff">③ SOLUCIÓN</text>
+<text x="170" y="204.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Punto de partida</text>
+<rect x="190" y="150" width="320" height="96" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="150" width="6" height="96" rx="3" fill="#b5402a"/>
+<text x="210" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Promocionar un libro y un disco en</text>
+<text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Instagram y TikTok con piezas,</text>
+<text x="210" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">textos y fechas.</text>
+<path d="M512 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="150" width="320" height="96" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="150" width="6" height="96" rx="3" fill="#b7791f"/>
+<text x="550" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Unir en una app lo aprendido en</text>
+<text x="550" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">las promociones: reglas, piezas y</text>
+<text x="550" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">revisión.</text>
+<path d="M852 191.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="150" width="320" height="96" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="150" width="6" height="96" rx="3" fill="#2f7d4f"/>
+<text x="890" y="178" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Una app en el PC que planifica,</text>
+<text x="890" y="200" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">produce, revisa, programa, publica</text>
+<text x="890" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">y mide.</text>
+<text x="170" y="305.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Claude</text>
+<rect x="190" y="262" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="262" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">La API de Claude es de pago y no</text>
+<text x="210" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">entra en Claude Pro.</text>
+<path d="M512 292.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="262" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="262" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Encargos y resultados como</text>
+<text x="550" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">archivos en una carpeta de Drive.</text>
+<path d="M852 292.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="262" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="262" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="290" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Dos tareas programadas de Claude</text>
+<text x="890" y="312" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">recogen las cartas del buzón.</text>
+<text x="170" y="395.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Publicar gratis</text>
+<rect x="190" y="352" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="352" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="380" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Cada servicio gratuito tiene un</text>
+<text x="210" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">límite distinto.</text>
+<path d="M512 382.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="352" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="352" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="380" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Tres vías por orden: API de</text>
+<text x="550" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Instagram, Publer y Publora.</text>
+<path d="M852 382.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="352" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="352" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="380" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Si todo falla, un LEEME para</text>
+<text x="890" y="402" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">publicar a mano.</text>
+<text x="170" y="485.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Uso real</text>
+<rect x="190" y="442" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="442" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="470" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Las pruebas pasaban; en el PC de</text>
+<text x="210" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">casa, no siempre.</text>
+<path d="M512 472.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="442" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="442" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="470" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Primera semana real con Litoques y</text>
+<text x="550" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">lectura de registros.</text>
+<path d="M852 472.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="442" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="442" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="470" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Arreglos que solo destapó el uso</text>
+<text x="890" y="492" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">de verdad.</text>
+<text x="170" y="575.0" text-anchor="end" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3b2a20">Estado</text>
+<rect x="190" y="532" width="320" height="74" rx="10" fill="#fbeee9" stroke="#b5402a" stroke-width="1.5"/>
+<rect x="190" y="532" width="6" height="74" rx="3" fill="#b5402a"/>
+<text x="210" y="560" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Mucho construido y poco estrenado.</text>
+<path d="M512 562.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="530" y="532" width="320" height="74" rx="10" fill="#fdf5e6" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="530" y="532" width="6" height="74" rx="3" fill="#b7791f"/>
+<text x="550" y="560" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">13 fases en 19 días, 48 PR y</text>
+<text x="550" y="582" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">versión 1.1.0.</text>
+<path d="M852 562.0 l14 7 l-14 7 z" fill="#3b2a20" opacity="0.55"/>
+<rect x="870" y="532" width="320" height="74" rx="10" fill="#eaf6ee" stroke="#2f7d4f" stroke-width="1.5"/>
+<rect x="870" y="532" width="6" height="74" rx="3" fill="#2f7d4f"/>
+<text x="890" y="560" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">Pendiente: la primera publicación</text>
+<text x="890" y="582" font-family="Helvetica, Arial, sans-serif" font-size="16.5" fill="#2a2622">real.</text>
+</svg>

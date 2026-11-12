@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+<rect width="1200" height="900" fill="#f7efe2"/>
+<text x="600.0" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">El recorrido de una publicación</text>
+<circle cx="600" cy="455" r="330" fill="none" stroke="#3b2a20" stroke-opacity="0.18" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(726.3 150.1) rotate(22.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(904.9 328.7) rotate(67.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(904.9 581.3) rotate(112.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(726.3 759.9) rotate(157.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(473.7 759.9) rotate(202.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(295.1 581.3) rotate(247.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(295.1 328.7) rotate(292.5)" fill="#3b2a20" opacity="0.5"/>
+<path d="M-9 -8 L9 0 L-9 8 z" transform="translate(473.7 150.1) rotate(337.5)" fill="#3b2a20" opacity="0.5"/>
+<rect x="487.0" y="73.0" width="226" height="104" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<circle cx="511.0" cy="97.0" r="15" fill="#7a4ea8"/>
+<text x="511.0" y="103.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="535.0" y="103.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Proponer</text>
+<text x="503.0" y="133.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Publicaciones de la semana</text>
+<text x="701.0" y="167.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#7a4ea8">CLAUDE</text>
+<rect x="720.3" y="169.7" width="226" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="744.3" cy="193.7" r="15" fill="#b5402a"/>
+<text x="744.3" y="199.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">2</text>
+<text x="768.3" y="199.7" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Aprobar</text>
+<text x="736.3" y="229.7" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Sí o no a cada una, con</text>
+<text x="736.3" y="248.7" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">motivo</text>
+<text x="934.3" y="263.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">RAÚL</text>
+<rect x="817.0" y="403.0" width="226" height="104" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<circle cx="841.0" cy="427.0" r="15" fill="#7a4ea8"/>
+<text x="841.0" y="433.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">3</text>
+<text x="865.0" y="433.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Especificar</text>
+<text x="833.0" y="463.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Con 3 pendientes, pide las</text>
+<text x="833.0" y="482.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">piezas</text>
+<text x="1031.0" y="497.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#7a4ea8">CLAUDE</text>
+<rect x="720.3" y="636.3" width="226" height="104" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<circle cx="744.3" cy="660.3" r="15" fill="#2b5f8f"/>
+<text x="744.3" y="666.3" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="768.3" y="666.3" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Generar</text>
+<text x="736.3" y="696.3" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Carrusel, historia, reel o</text>
+<text x="736.3" y="715.3" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">clip</text>
+<text x="934.3" y="730.3" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2b5f8f">SOCIALHUB</text>
+<rect x="487.0" y="733.0" width="226" height="104" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<circle cx="511.0" cy="757.0" r="15" fill="#7a4ea8"/>
+<text x="511.0" y="763.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="535.0" y="763.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Escribir</text>
+<text x="503.0" y="793.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Textos y hashtags, y</text>
+<text x="503.0" y="812.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">revisión</text>
+<text x="701.0" y="827.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#7a4ea8">CLAUDE</text>
+<rect x="253.7" y="636.3" width="226" height="104" rx="14" fill="#fff" stroke="#b5402a" stroke-width="2.5"/>
+<circle cx="277.7" cy="660.3" r="15" fill="#b5402a"/>
+<text x="277.7" y="666.3" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">6</text>
+<text x="301.7" y="666.3" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Programar</text>
+<text x="269.7" y="696.3" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">Raúl aprueba, mínimo 6 h</text>
+<text x="269.7" y="715.3" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">antes</text>
+<text x="467.7" y="730.3" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#b5402a">RAÚL</text>
+<rect x="157.0" y="403.0" width="226" height="104" rx="14" fill="#fff" stroke="#2f7d4f" stroke-width="2.5"/>
+<circle cx="181.0" cy="427.0" r="15" fill="#2f7d4f"/>
+<text x="181.0" y="433.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">7</text>
+<text x="205.0" y="433.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Publicar</text>
+<text x="173.0" y="463.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">API, Publer o Publora; con</text>
+<text x="173.0" y="482.0" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">enlace</text>
+<text x="371.0" y="497.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#2f7d4f">SOCIALHUB</text>
+<rect x="253.7" y="169.7" width="226" height="104" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<circle cx="277.7" cy="193.7" r="15" fill="#7a4ea8"/>
+<text x="277.7" y="199.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">8</text>
+<text x="301.7" y="199.7" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2a2622">Medir</text>
+<text x="269.7" y="229.7" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">A los 7 días lee las</text>
+<text x="269.7" y="248.7" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#4a4540">métricas</text>
+<text x="467.7" y="263.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#7a4ea8">CLAUDE</text>
+<text x="600" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#3b2a20">La IA propone,</text>
+<text x="600" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">SocialHub valida</text>
+<text x="600" y="505" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#3b2a20">y Raúl aprueba</text>
+<rect x="60" y="858" width="16" height="16" rx="4" fill="#7a4ea8"/>
+<text x="84" y="871" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Claude</text>
+<rect x="280" y="858" width="16" height="16" rx="4" fill="#2b5f8f"/>
+<text x="304" y="871" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">SocialHub</text>
+<rect x="500" y="858" width="16" height="16" rx="4" fill="#b5402a"/>
+<text x="524" y="871" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">Raúl</text>
+<rect x="720" y="858" width="16" height="16" rx="4" fill="#2f7d4f"/>
+<text x="744" y="871" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4a4540">En la red</text>
+</svg>

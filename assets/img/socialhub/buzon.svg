@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+<rect width="1200" height="640" fill="#f7efe2"/>
+<text x="600" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#3b2a20">Claude no está dentro de la app: se escriben cartas</text>
+<text x="600" y="80" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6b5a4c">La API de Claude es de pago y no entra en Claude Pro, así que el buzón es una carpeta de Google Drive</text>
+<rect x="40" y="120" width="320" height="250" rx="14" fill="#fff" stroke="#2b5f8f" stroke-width="2.5"/>
+<text x="58" y="154" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#2b5f8f">SocialHub</text>
+<text x="58" y="176" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5a4c">En el PC, desde el navegador</text>
+<text x="58" y="204" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Guarda todo y decide qué toca</text>
+<text x="58" y="226" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Genera carruseles, reels, clips</text>
+<text x="58" y="248" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Valida lo que devuelve Claude</text>
+<text x="58" y="270" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Publica o encarga publicar</text>
+<text x="58" y="292" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Avisa si algo no contesta</text>
+<rect x="248" y="136" width="96" height="24" rx="12" fill="none" stroke="#2f7d4f"/><text x="296" y="153" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f7d4f">HECHO</text>
+<rect x="440" y="170" width="320" height="150" rx="14" fill="#fff" stroke="#b7791f" stroke-width="2.5"/>
+<text x="458" y="204" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#b7791f">Buzón en Drive</text>
+<text x="458" y="226" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5a4c">Carpeta sincronizada</text>
+<text x="458" y="254" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Encargos de SocialHub</text>
+<text x="458" y="276" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Resultados de Claude</text>
+<text x="458" y="298" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Archivos de cada marca</text>
+<rect x="648" y="186" width="96" height="24" rx="12" fill="none" stroke="#2f7d4f"/><text x="696" y="203" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f7d4f">HECHO</text>
+<rect x="840" y="110" width="320" height="140" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<text x="858" y="144" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#7a4ea8">Claude en la nube</text>
+<text x="858" y="166" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5a4c">Tarea programada</text>
+<text x="858" y="194" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Propuestas, textos, revisión</text>
+<text x="858" y="216" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Balance e investigación</text>
+<rect x="1048" y="126" width="96" height="24" rx="12" fill="none" stroke="#2f7d4f"/><text x="1096" y="143" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f7d4f">EN USO</text>
+<rect x="840" y="270" width="320" height="140" rx="14" fill="#fff" stroke="#7a4ea8" stroke-width="2.5"/>
+<text x="858" y="304" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#7a4ea8">Claude con Chrome</text>
+<text x="858" y="326" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5a4c">Tarea programada en el PC</text>
+<text x="858" y="354" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Programa en Publer</text>
+<text x="858" y="376" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#3b2a20">• Lee el calendario y métricas</text>
+<rect x="1048" y="286" width="96" height="24" rx="12" fill="none" stroke="#b7791f"/><text x="1096" y="303" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#b7791f">A MEDIAS</text>
+<path d="M362 230 h74 m-10 -8 l10 8 l-10 8" stroke="#3b2a20" stroke-width="3" fill="none"/><path d="M436 262 h-74 m10 -8 l-10 8 l10 8" stroke="#3b2a20" stroke-width="3" fill="none"/>
+<text x="399" y="214" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5a4c">cada 30 s</text>
+<path d="M762 225 L836 185 m-12 0 l12 0 l-4 11" stroke="#3b2a20" stroke-width="3" fill="none"/><path d="M762 265 L836 330 m-12 1 l12 -1 l-2 -12" stroke="#3b2a20" stroke-width="3" fill="none"/>
+<text x="600" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#3b2a20">Tres vías para publicar, por orden</text>
+<rect x="40" y="475" width="360" height="90" rx="12" fill="#fff" stroke="#2b5f8f" stroke-width="2"/>
+<text x="58" y="508" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b5f8f">1 · API oficial de Instagram</text><text x="58" y="534" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">SocialHub publica él mismo a la hora</text>
+<text x="58" y="555" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#b7791f">A MEDIAS: sin publicación real aún</text>
+<rect x="420" y="475" width="360" height="90" rx="12" fill="#fff" stroke="#7a4ea8" stroke-width="2"/>
+<text x="438" y="508" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#7a4ea8">2 · Publer (gratis)</text><text x="438" y="534" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">Respaldo de Instagram y vía de TikTok</text>
+<text x="438" y="555" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#b7791f">A MEDIAS: sin publicación real aún</text>
+<rect x="800" y="475" width="360" height="90" rx="12" fill="#fff" stroke="#6b5a4c" stroke-width="2"/>
+<text x="818" y="508" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#6b5a4c">3 · Publora (gratis)</text><text x="818" y="534" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">Reserva: 15 publicaciones al mes</text>
+<text x="818" y="555" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#b7791f">A MEDIAS: sin publicación real aún</text>
+<text x="600" y="610" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#3b2a20">Si las tres fallan, SocialHub deja un LEEME para publicar a mano. «Publicada» solo con el enlace de la red.</text>
+</svg>

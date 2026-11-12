@@ -1,0 +1,16 @@
+{"titulo": "El recorrido de una publicación",
+ "fondo": "#f7efe2", "tinta": "#3b2a20",
+ "ruta": "assets/img/socialhub/recorrido.svg",
+ "centro": ["La IA propone,", "SocialHub valida", "y Raúl aprueba"],
+ "leyenda": [["Claude", "#7a4ea8"], ["SocialHub", "#2b5f8f"], ["Raúl", "#b5402a"], ["En la red", "#2f7d4f"]],
+ "H": 900, "cy": 455, "R": 330, "bw": 226,
+ "pasos": [
+  ["Proponer", "Publicaciones de la semana", "#7a4ea8", "CLAUDE"],
+  ["Aprobar", "Sí o no a cada una, con motivo", "#b5402a", "RAÚL"],
+  ["Especificar", "Con 3 pendientes, pide las piezas", "#7a4ea8", "CLAUDE"],
+  ["Generar", "Carrusel, historia, reel o clip", "#2b5f8f", "SOCIALHUB"],
+  ["Escribir", "Textos y hashtags, y revisión", "#7a4ea8", "CLAUDE"],
+  ["Programar", "Raúl aprueba, mínimo 6 h antes", "#b5402a", "RAÚL"],
+  ["Publicar", "API, Publer o Publora; con enlace", "#2f7d4f", "SOCIALHUB"],
+  ["Medir", "A los 7 días lee las métricas", "#7a4ea8", "CLAUDE"]
+ ]}

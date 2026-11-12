@@ -1,0 +1,10 @@
+{"titulo": "SocialHub: de las promociones a mano a una fábrica de contenido",
+ "fondo": "#f7efe2", "tinta": "#3b2a20",
+ "ruta": "assets/img/socialhub/mapa-del-caso.svg",
+ "filas": [
+  ["Punto de partida", ["Promocionar un libro y un disco en Instagram y TikTok con piezas, textos y fechas.", "Unir en una app lo aprendido en las promociones: reglas, piezas y revisión.", "Una app en el PC que planifica, produce, revisa, programa, publica y mide."]],
+  ["Claude", ["La API de Claude es de pago y no entra en Claude Pro.", "Encargos y resultados como archivos en una carpeta de Drive.", "Dos tareas programadas de Claude recogen las cartas del buzón."]],
+  ["Publicar gratis", ["Cada servicio gratuito tiene un límite distinto.", "Tres vías por orden: API de Instagram, Publer y Publora.", "Si todo falla, un LEEME para publicar a mano."]],
+  ["Uso real", ["Las pruebas pasaban; en el PC de casa, no siempre.", "Primera semana real con Litoques y lectura de registros.", "Arreglos que solo destapó el uso de verdad."]],
+  ["Estado", ["Mucho construido y poco estrenado.", "13 fases en 19 días, 48 PR y versión 1.1.0.", "Pendiente: la primera publicación real."]]
+ ]}

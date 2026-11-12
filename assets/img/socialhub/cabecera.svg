@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<defs><radialGradient id="f" cx="0.5" cy="0.6" r="0.75"><stop offset="0" stop-color="#22324a"/><stop offset="1" stop-color="#0f1622"/></radialGradient></defs>
+<rect width="1600" height="700" fill="url(#f)"/>
+<g transform="translate(800 420) scale(0.86) translate(-800 -440)"><circle cx="800" cy="440" r="200" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="18"/>
+<path d="M816.0 240.6 A200 200 0 0 1 964.7 326.5" fill="none" stroke="#7fb3e6" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="800.0" cy="240.0" r="26" fill="#0f1622" stroke="#7fb3e6" stroke-width="4"/>
+<text x="800.0" y="247.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#7fb3e6">1</text>
+<text x="852" y="250" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Planificar</text>
+<path d="M980.6 354.2 A200 200 0 0 1 980.6 525.8" fill="none" stroke="#e6b45a" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="973.2" cy="340.0" r="26" fill="#0f1622" stroke="#e6b45a" stroke-width="4"/>
+<text x="973.2" y="347.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6b45a">2</text>
+<text x="1033.8" y="313.0" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Producir</text>
+<path d="M964.7 553.5 A200 200 0 0 1 816.0 639.4" fill="none" stroke="#e6865a" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="973.2" cy="540.0" r="26" fill="#0f1622" stroke="#e6865a" stroke-width="4"/>
+<text x="973.2" y="547.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6865a">3</text>
+<text x="1033.8" y="583.0" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Revisar</text>
+<path d="M784.0 639.4 A200 200 0 0 1 635.3 553.5" fill="none" stroke="#b38be6" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="800.0" cy="640.0" r="26" fill="#0f1622" stroke="#b38be6" stroke-width="4"/>
+<text x="800.0" y="647.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#b38be6">4</text>
+<text x="852" y="650" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Programar</text>
+<path d="M619.4 525.8 A200 200 0 0 1 619.4 354.2" fill="none" stroke="#6fcf97" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="626.8" cy="540.0" r="26" fill="#0f1622" stroke="#6fcf97" stroke-width="4"/>
+<text x="626.8" y="547.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#6fcf97">5</text>
+<text x="566.2" y="583.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Publicar</text>
+<path d="M635.3 326.5 A200 200 0 0 1 784.0 240.6" fill="none" stroke="#5ac8c8" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+<circle cx="626.8" cy="340.0" r="26" fill="#0f1622" stroke="#5ac8c8" stroke-width="4"/>
+<text x="626.8" y="347.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#5ac8c8">6</text>
+<text x="566.2" y="313.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e9eef6">Medir</text>
+<rect x="730" y="392" width="140" height="96" rx="14" fill="#18263a" stroke="#ffffff" stroke-opacity="0.3"/>
+<path d="M730 400 L800 448 L870 400" fill="none" stroke="#e9eef6" stroke-width="3" opacity="0.8"/>
+<text x="800" y="474" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#9fb3cc">BUZÓN</text>
+</g><rect x="0" y="0" width="1600" height="190" fill="#0f1622"/>
+<text x="800" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-style="italic" fill="#f2f5fa">SocialHub</text>
+<text x="800" y="154" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="4" fill="#7fb3e6">UNA FÁBRICA DE CONTENIDO PARA REDES, PROGRAMADA CON IA EN 19 DÍAS</text>
+<rect x="430" y="650" width="220" height="36" rx="18" fill="#b5402a"/><text x="540" y="675" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">PROBLEMA</text>
+<rect x="690" y="650" width="220" height="36" rx="18" fill="#b7791f"/><text x="800" y="675" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">PROCESO</text>
+<rect x="950" y="650" width="220" height="36" rx="18" fill="#2f7d4f"/><text x="1060" y="675" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">SOLUCIÓN</text>
+</svg>
