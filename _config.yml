@@ -1,6 +1,7 @@
 title: Casos cotidianos de uso de IA
 description: Problemas reales, cómo usamos la IA para resolverlos y qué siguió dependiendo de nosotros.
 lang: es
+timezone: Europe/Madrid
 baseurl: "/casos-ia"
 url: "https://rvillalba1983.github.io"
 theme: minima
